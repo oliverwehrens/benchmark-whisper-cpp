@@ -1,0 +1,640 @@
+1
+00:00:00,000 --> 00:00:11,880
+ Der Chef der internationalen Atomenergiebehörde, Rafael Gossi, kurz bevor er heute Morgen mit
+
+2
+00:00:11,880 --> 00:00:17,200
+ seinem Team losgefahren ist zum von Russland besetzten und umkämpften Atomkraftwerk Zaporizhia.
+
+3
+00:00:17,200 --> 00:00:21,440
+ Die Situation rund um das Kraftwerk ist gleich das erste Thema hier im Update von Was Jetzt?
+
+4
+00:00:21,440 --> 00:00:23,960
+ dem Nachrichtenpodcast von Zeit Online.
+
+5
+00:00:23,960 --> 00:00:28,240
+ Außerdem rede ich über zwei neu zugelassene Corona-Impfstoffe und erkläre, was die können
+
+6
+00:00:28,240 --> 00:00:29,880
+ und was sie nicht können.
+
+7
+00:00:29,880 --> 00:00:31,160
+ Heute ist Donnerstag, der 1.
+
+8
+00:00:31,160 --> 00:00:32,160
+ September.
+
+9
+00:00:32,160 --> 00:00:37,040
+ Ich bin Moses Fendel und der Redaktionsschluss für diesen Podcast ist 16 Uhr.
+
+10
+00:00:37,040 --> 00:00:43,760
+ Im Süden der Ukraine, am Fluss Dnieper oder Dnieper auf Russisch, liegt das größte Atomkraftwerk
+
+11
+00:00:43,760 --> 00:00:48,080
+ Europas, benannt nach der ungefähr 70 Kilometer entfernten Großstadt Zaporizhia.
+
+12
+00:00:48,080 --> 00:00:52,560
+ Seit Anfang März, also seit Beginn des Krieges, ist es besetzt von russischen Truppen.
+
+13
+00:00:52,560 --> 00:00:56,360
+ Und in den letzten Wochen hat es rund um das Kraftwerk immer wieder Kämpfe gegeben, bei
+
+14
+00:00:56,360 --> 00:00:57,520
+ denen es beschossen wurde.
+
+15
+00:00:57,520 --> 00:01:02,040
+ Ein Team von Fachleuten der Internationalen Atomenergiebehörde ist am frühen Nachmittag
+
+16
+00:01:02,040 --> 00:01:06,280
+ dort angekommen, um sich ein Bild von der Lage zu machen und um die Schäden zu begutachten.
+
+17
+00:01:06,280 --> 00:01:09,960
+ Die Fahrt durch das Kriegsgebiet und über die Frontlinie war gefährlich.
+
+18
+00:01:09,960 --> 00:01:14,560
+ Die IAEA sagt, dass das Team noch auf ukrainisch kontrolliertem Gebiet alleine drei Stunden
+
+19
+00:01:14,560 --> 00:01:15,880
+ lang festgehalten wurde.
+
+20
+00:01:15,880 --> 00:01:20,480
+ Die Ukraine und Russland werfen einander vor, für die Verzögerung verantwortlich zu sein,
+
+21
+00:01:20,480 --> 00:01:23,480
+ weil die jeweils andere Seite nicht aufhöre, das Gebiet zu beschießen.
+
+22
+00:01:23,480 --> 00:01:27,640
+ Soviel erstmal zum Hintergrund dieser gefährlichen Mission.
+
+23
+00:01:27,640 --> 00:01:30,920
+ Anna Vero-Wendland ist Technik- und Ukrainehistorikerin.
+
+24
+00:01:30,920 --> 00:01:35,440
+ Im Rahmen ihrer Forschung hat sie unter anderem mehrere Wochen lang in einem ukrainischen Atomkraftwerk
+
+25
+00:01:35,440 --> 00:01:38,440
+ gearbeitet, das einen baugleichen Reaktorblock hat.
+
+26
+00:01:38,440 --> 00:01:39,440
+ Hallo Frau Wendland.
+
+27
+00:01:39,440 --> 00:01:40,440
+ Hallo.
+
+28
+00:01:40,440 --> 00:01:42,280
+ Wie ernst ist die Lage rund um das Kraftwerk jetzt gerade?
+
+29
+00:01:42,280 --> 00:01:47,840
+ Ja, wie die Lage jetzt derzeit ist, das ist das, was wir halt zwischen aus Angaben der
+
+30
+00:01:47,840 --> 00:01:55,400
+ Treiberfirma auf der ukrainischen Atomaufricht, dass das Kernkraftwerk mehrere Male geschossen
+
+31
+00:01:55,400 --> 00:02:01,560
+ wurde, dass auch bestimmte Nebenanlagen Beschädigungen erfahren haben, auch Messinstrumenten.
+
+32
+00:02:01,560 --> 00:02:06,960
+ Die Reaktoren selber wurden nicht geschossen, aber wir sind da eben in großer Sorge über
+
+33
+00:02:06,960 --> 00:02:12,960
+ diesen unhaltbaren Zustand, dass eben eine Anlage im Kriegsgebiet steht, die geschossen
+
+34
+00:02:12,960 --> 00:02:19,040
+ wird, die Besatzer, die besetzt haben, das Personal terrorisieren, dort offensichtlich
+
+35
+00:02:19,040 --> 00:02:22,080
+ auch Kriegsgerät unterstellen auf dem Anlagengelände.
+
+36
+00:02:22,080 --> 00:02:23,800
+ Das sind alles unhaltbare Zustände.
+
+37
+00:02:23,800 --> 00:02:29,160
+ Im schlimmsten Fall droht ein ähnliches Szenario wie im japanischen Fukushima, auch wenn es
+
+38
+00:02:29,160 --> 00:02:35,640
+ da noch verschiedene zwischengeschaltete Sicherheitsmechanismen gibt, die das verhindern sollen und können.
+
+39
+00:02:35,640 --> 00:02:40,200
+ Und es müssten also verschiedene Faktoren zusammenkommen, damit es wirklich zum Gau kommt.
+
+40
+00:02:40,200 --> 00:02:42,960
+ Das Expertenteam ist ja inzwischen zumindest mal angekommen.
+
+41
+00:02:42,960 --> 00:02:45,040
+ Was bringt diese Mission denn Ihrer Meinung nach?
+
+42
+00:02:45,040 --> 00:02:50,880
+ Diese Mission ist erstmal von großem Wert, da jede Anwesenheit von Dritten, von den Beobachtern,
+
+43
+00:02:50,880 --> 00:02:54,840
+ von internationalen Akteuren der Anlage auch Schutz gibt.
+
+44
+00:02:54,840 --> 00:02:57,200
+ Also das ist sicherlich eine Verbesserung.
+
+45
+00:02:57,200 --> 00:03:04,000
+ Dann ist der zweite große Wert, dass tatsächlich jetzt von unabhängiger Seite aus eine Schadensbilanz
+
+46
+00:03:04,000 --> 00:03:09,400
+ gemacht werden kann, geschaut werden kann, was ist wirklich auf der Anlage los, was ist
+
+47
+00:03:09,400 --> 00:03:12,360
+ kaputt gegangen, vor allem die mit der Stromversorgung auch.
+
+48
+00:03:12,360 --> 00:03:17,640
+ Wenn die wegbricht und die Anlage eben nur noch auf ihre Notstromdiesel angewiesen wäre,
+
+49
+00:03:17,640 --> 00:03:23,040
+ wäre das schon eine sehr stabile Situation, auch wenn tatsächlich noch sehr viele Barrieren
+
+50
+00:03:23,040 --> 00:03:26,880
+ zwischen so einem Ereignis und einer Kerbschweiße liegen würden.
+
+51
+00:03:26,880 --> 00:03:28,800
+ Aber das ist tatsächlich der Wert.
+
+52
+00:03:28,800 --> 00:03:33,880
+ Wir haben jetzt Inspekteure, also Fachleute auf der Anlage, was auch sehr wichtig ist,
+
+53
+00:03:33,880 --> 00:03:37,040
+ ist sicherlich die Möglichkeit mit der Belegschaft zu sprechen.
+
+54
+00:03:37,040 --> 00:03:41,600
+ Ob das allerdings im geschützten Raum möglich sein wird, was die Voraussetzung für offene
+
+55
+00:03:41,600 --> 00:03:43,840
+ Sprecher ist, das kann ich auch nicht warten.
+
+56
+00:03:43,840 --> 00:03:47,120
+ Ja, das müssen wir jetzt erstmal abwarten, denn ich kann mir auch vorstellen, dass das
+
+57
+00:03:47,120 --> 00:03:51,800
+ unangenehm ist, mit vorgehaltener Kalaschnikow seine Arbeit zu machen.
+
+58
+00:03:51,800 --> 00:03:56,720
+ Jetzt hat gestern die IAEA ja angekündigt, dass sie eine dauerhafte Präsenz in dem Kernkraftwerk
+
+59
+00:03:56,720 --> 00:03:57,720
+ plant.
+
+60
+00:03:57,720 --> 00:03:59,720
+ Für wie sinnvoll halten Sie diesen Plan?
+
+61
+00:03:59,720 --> 00:04:01,280
+ Das wäre auf jeden Fall zu begrüßen.
+
+62
+00:04:01,280 --> 00:04:09,120
+ Ja, wie gesagt, würde sich der Faktor des Schutzes der Anlage sicherlich gewährleisten.
+
+63
+00:04:09,120 --> 00:04:14,600
+ Dein Quermis ist aber tatsächlich darauf an, dass es eine ziemlich robuste Repräsentanz
+
+64
+00:04:14,600 --> 00:04:19,400
+ ist, also dass es wirklich auch ein Team von Leuten ist, also nicht nur ein symbolischer
+
+65
+00:04:19,400 --> 00:04:20,400
+ Einzelperson.
+
+66
+00:04:20,400 --> 00:04:24,840
+ Und das fängt dann wiederum natürlich von den Zugeständnissen der Besatzer ab.
+
+67
+00:04:24,840 --> 00:04:30,080
+ Die Frage ist eben auch, inwiefern eine solche Anwesenheit an der Problematik als
+
+68
+00:04:30,080 --> 00:04:34,680
+ solcher was ändern kann, nämlich der Anwesenheit von Bewaffneten auf der Anlage, die eben auch
+
+69
+00:04:34,680 --> 00:04:38,680
+ wirklich das Personal unter Druck setzen und nicht nur das, sondern sie wissen auch, dass
+
+70
+00:04:38,680 --> 00:04:43,960
+ etliche Mitglieder des Personals verschwunden sind, womöglich auch gefoltert werden, dass
+
+71
+00:04:43,960 --> 00:04:46,560
+ sie unter massiven Druck gesetzt werden unter solchen Umständen.
+
+72
+00:04:46,560 --> 00:04:51,200
+ Es ist tatsächlich auch sehr, sehr schwierig, die nötige Ruhe und Entspannung zu haben,
+
+73
+00:04:51,200 --> 00:04:54,800
+ um Kernreaktoren sicher zu bedienen.
+
+74
+00:04:54,800 --> 00:04:58,760
+ Sie haben ja vorhin im Vorgespräch gesagt, dass sie sich von der IAEA wünschen, stärker
+
+75
+00:04:58,760 --> 00:05:00,640
+ auf die russische Seite einzuwirken.
+
+76
+00:05:00,640 --> 00:05:02,440
+ Wie genau könnte das aussehen?
+
+77
+00:05:02,440 --> 00:05:09,680
+ Ja, es gibt ja letzten Endes bestimmte Kriterien für die Zuverlässigkeit von Betreibern kerntechnischer
+
+78
+00:05:09,680 --> 00:05:10,680
+ Anlagen.
+
+79
+00:05:10,680 --> 00:05:14,680
+ Also die Betreiberzuverlässigkeit ist eine Sache, die die Behörden zum Beispiel prüfen
+
+80
+00:05:14,680 --> 00:05:18,160
+ müssen, wenn sie Kernkraftwerke genehmigen.
+
+81
+00:05:18,160 --> 00:05:25,280
+ Und die IAEA wollte meiner Auffassung nach ihrem Gesprächspartner Ross Energoatum, also
+
+82
+00:05:25,280 --> 00:05:30,880
+ dem russischen Betreiber von Kernkraftwerken, ziemlich klipp und klar zu verstehen geben,
+
+83
+00:05:30,880 --> 00:05:36,280
+ dass ihre eigene Zuverlässigkeit infrage steht, wenn sie nicht in der Lage sind, ihre eigenen
+
+84
+00:05:36,280 --> 00:05:40,120
+ Regierungen, Ross Aertum ist ein Staatskonzern, wenn sie nicht in der Lage sind, ihren eigenen
+
+85
+00:05:40,120 --> 00:05:46,240
+ Vorgesetzten klar zu machen, dass diese Zustände, die die Russen im Kernkraftwerk Saporige erzeugt
+
+86
+00:05:46,240 --> 00:05:47,840
+ haben, völlig unhaltbar sind.
+
+87
+00:05:47,840 --> 00:05:52,920
+ Also der einzige Zugang zum Kreml könnte ja zum Beispiel über die Leitung von Ross Aertum
+
+88
+00:05:52,920 --> 00:05:57,520
+ erfolgen und dieses ins Gewissen reden, das fehlt offensichtlich völlig.
+
+89
+00:05:57,520 --> 00:06:02,720
+ Im Gegenteil, es haben sich die Mitarbeiter von Ross Aertum dazu hergeben lassen, eben
+
+90
+00:06:02,720 --> 00:06:08,120
+ im Auftrag ihrer Regierung diese Anlage da so offensichtlich mitzubenehmen.
+
+91
+00:06:08,120 --> 00:06:12,400
+ Und das sind alles Dinge, die sollten viel, viel konkreter angesprochen werden.
+
+92
+00:06:12,400 --> 00:06:15,320
+ Da sollte die IAEA meiner Meinung nach viel deutlicher werden.
+
+93
+00:06:15,320 --> 00:06:16,840
+ Danke, Anna-Vero Wendland.
+
+94
+00:06:16,840 --> 00:06:17,840
+ Gern geschehen.
+
+95
+00:06:17,840 --> 00:06:20,440
+ Und ich bitte um Entschuldigung für die schlechte Soundqualität.
+
+96
+00:06:20,440 --> 00:06:23,160
+ Wir mussten das Gespräch per Handy am Strand aufnehmen.
+
+97
+00:06:23,160 --> 00:06:24,840
+ Es ging heute leider nicht an, das tut mir leid.
+
+98
+00:06:24,840 --> 00:06:30,000
+ In Europa sind seit heute zwei neue Corona-Impfstoffe zugelassen.
+
+99
+00:06:30,000 --> 00:06:33,920
+ Das hat die Europäische Arzneimittelbehörde EMA am Nachmittag bei einer Sondersitzung
+
+100
+00:06:33,920 --> 00:06:34,920
+ entschieden.
+
+101
+00:06:34,920 --> 00:06:39,400
+ Das Neue an den Impfstoffen von BioNTech, Pfizer und Moderna ist, dass sie im Gegensatz
+
+102
+00:06:39,400 --> 00:06:43,520
+ zu den bisher genutzten an die Omikron-Variante angepasst sind.
+
+103
+00:06:43,520 --> 00:06:45,320
+ Einen Haken gibt es aber leider trotzdem.
+
+104
+00:06:45,320 --> 00:06:50,000
+ Die neuen Impfstoffe sind auf den Omikron-Subtyp BA1 angepasst.
+
+105
+00:06:50,000 --> 00:06:54,920
+ Die meisten Leute stecken sich aber im Moment mit den Corona-Varianten BA4 und BA5 an.
+
+106
+00:06:54,920 --> 00:06:58,680
+ Die EMA prüft gerade auch einen auf diese Varianten angepassten Impfstoff.
+
+107
+00:06:58,680 --> 00:07:01,040
+ Der könnte in wenigen Wochen zugelassen werden.
+
+108
+00:07:01,040 --> 00:07:05,680
+ In den USA hat die Gesundheitsbehörde gestern schon per Notfallzulassung zwei Impfstoffe
+
+109
+00:07:05,680 --> 00:07:08,920
+ genehmigt, die auf BA4 und BA5 angepasst sind.
+
+110
+00:07:08,920 --> 00:07:14,720
+ Die deutschen Basketballer starten heute Abend in die Europameisterschaft.
+
+111
+00:07:14,720 --> 00:07:16,320
+ Erster Gegner ist Frankreich.
+
+112
+00:07:16,320 --> 00:07:20,880
+ Los geht's um 20.30 Uhr in Köln und unterwegs dorthin ist gerade auch Tamo Blomberg aus
+
+113
+00:07:20,880 --> 00:07:21,880
+ unserem Sportressort.
+
+114
+00:07:21,880 --> 00:07:25,080
+ Er hat mir vorhin einen kurzen Ausblick auf das Turnier gegeben.
+
+115
+00:07:25,080 --> 00:07:29,040
+ Ich glaube, das ist so ein Turnier, das in Deutschland viele noch gar nicht so richtig
+
+116
+00:07:29,040 --> 00:07:30,280
+ auf dem Schirm haben.
+
+117
+00:07:30,280 --> 00:07:33,680
+ Es hat aber das Potenzial, wirklich wahnsinnig aufregend zu werden.
+
+118
+00:07:33,680 --> 00:07:38,920
+ Und zwar zum einen, weil die drei derzeit wirklich weltbesten Basketballer bei dieser
+
+119
+00:07:38,920 --> 00:07:41,040
+ Europameisterschaft am Start sind.
+
+120
+00:07:41,040 --> 00:07:46,800
+ Mit dem Serben Nikolaj Jokic, dem Griechen Janis Antetokumpo und dem Slowenian Luka Dončić.
+
+121
+00:07:46,800 --> 00:07:52,240
+ Das ist wahnsinnig unüblich, weil Basketball natürlich eine amerikanisch geprägte Sportart
+
+122
+00:07:52,240 --> 00:07:53,240
+ ist.
+
+123
+00:07:53,240 --> 00:07:58,560
+ Und dass bei der EM so aufregende Spieler da sind, das hat es eigentlich so noch nie
+
+124
+00:07:58,560 --> 00:07:59,560
+ gegeben.
+
+125
+00:07:59,560 --> 00:08:02,600
+ Die deutschen Basketballer, glaubt Tamo, können bei der EM oben mitspielen.
+
+126
+00:08:02,600 --> 00:08:08,360
+ Vielleicht nicht um den Titel, aber schon um eine Medaille oder zumindest das Halbfinale,
+
+127
+00:08:08,360 --> 00:08:09,360
+ würde ich sagen.
+
+128
+00:08:09,360 --> 00:08:13,280
+ Es gab zwar viele Verletzungen jetzt im Vorfeld, es gibt auch nicht mehr diese Überfigur wie
+
+129
+00:08:13,280 --> 00:08:20,080
+ Dirk Nowitzki, aber der Talentpool ist eigentlich viel größer, viel tiefer als in den Nowitzki-Jahren.
+
+130
+00:08:20,080 --> 00:08:23,080
+ Es gibt viel mehr deutsche NBA-Spieler als damals.
+
+131
+00:08:23,080 --> 00:08:24,880
+ Da ist also sehr viel drin.
+
+132
+00:08:24,880 --> 00:08:28,880
+ Die deutsche Vorrundengruppe spielt übrigens alle ihre Spiele in Köln, die anderen Gruppen
+
+133
+00:08:28,880 --> 00:08:30,960
+ in Tiflis, Mailand und Prag.
+
+134
+00:08:30,960 --> 00:08:34,560
+ Und die Endrunde der Basketball-EM findet dann komplett in Berlin statt.
+
+135
+00:08:34,560 --> 00:08:38,560
+ Was noch?
+
+136
+00:08:38,560 --> 00:08:48,200
+ So klingt es, wenn sich 15.000 in weiß gekleidete Menschen treffen, um sich gegenseitig mit
+
+137
+00:08:48,200 --> 00:08:50,520
+ überreifen Tomaten zu bewerfen.
+
+138
+00:08:50,520 --> 00:08:54,280
+ So geschehen gestern wieder in Spanien, in der Stadt Buñol, das ist im Osten des Landes
+
+139
+00:08:54,280 --> 00:08:56,080
+ in der Nähe von Valencia.
+
+140
+00:08:56,080 --> 00:08:59,080
+ 130 Tonnen Tomaten sind dabei draufgegangen.
+
+141
+00:08:59,080 --> 00:09:02,440
+ Sie werden anscheinend extra für dieses Event gezüchtet.
+
+142
+00:09:02,440 --> 00:09:06,880
+ Domatina ist das Fest, das seit fast 80 Jahren stattfindet und zu den Menschen aus der ganzen
+
+143
+00:09:06,880 --> 00:09:07,880
+ Welt anreist.
+
+144
+00:09:07,880 --> 00:09:12,040
+ Ich kann mir vorstellen, dass diese Tomatenschlachten diesen Jahr besonders viel Spaß gemacht haben,
+
+145
+00:09:12,040 --> 00:09:15,760
+ wie so vieles, das zum ersten Mal nach zwei oder drei Jahren Corona-Pause wieder stattgefunden
+
+146
+00:09:15,760 --> 00:09:16,760
+ hat.
+
+147
+00:09:16,760 --> 00:09:19,320
+ Aber natürlich gibt es auch Menschen, die die Tomatina kritisieren.
+
+148
+00:09:19,320 --> 00:09:21,840
+ Das sei Lebensmittelverschwendung.
+
+149
+00:09:21,840 --> 00:09:23,520
+ Entkräften kann ich das nicht.
+
+150
+00:09:23,520 --> 00:09:26,680
+ Aus 130 Tonnen Tomaten hätte man eine Menge Suppe kochen können.
+
+151
+00:09:26,680 --> 00:09:32,680
+ Das war das Update von Was Jetzt am Donnerstagnachmittag.
+
+152
+00:09:32,680 --> 00:09:36,320
+ Morgen früh nimmt Constanze sie mit nach Argentinien, wo die Inflation im Moment noch
+
+153
+00:09:36,320 --> 00:09:38,040
+ viel heftiger ist als bei uns.
+
+154
+00:09:38,040 --> 00:09:39,320
+ Ich bin Moses Vendel.
+
+155
+00:09:39,320 --> 00:09:40,320
+ Danke fürs Zuhören.
+
+156
+00:09:40,320 --> 00:09:41,320
+ Machen Sie es gut und bis bald.
+
+157
+00:09:41,320 --> 00:09:51,960
+ Ich sitze gerade auf der Nordseeinsel Amrum, schaue auf die Möwen, die hier im Watt rumstochern
+
+158
+00:09:51,960 --> 00:09:52,960
+ und die Kinder, die spielen.
+
+159
+00:09:52,960 --> 00:09:59,680
+ Das ist ein Bild des Friedens, aber auch gleichzeitig ein Bild des Verbreches, die Natur und Zeitalter
+
+160
+00:09:59,680 --> 00:10:00,680
+ des Klimawandels sind.
+

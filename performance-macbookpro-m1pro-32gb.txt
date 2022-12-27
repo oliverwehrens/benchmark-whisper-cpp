@@ -1,0 +1,71 @@
+Model: small Cores: 6
+
+
+
+real	1m8.757s
+user	6m13.476s
+sys	0m7.888s
+
+Model: small Cores: 4
+
+
+
+real	1m2.190s
+user	3m57.819s
+sys	0m4.832s
+
+Model: small Cores: 2
+
+
+
+real	1m28.614s
+user	2m56.122s
+sys	0m2.841s
+
+Model: medium Cores: 6
+
+
+
+real	2m17.005s
+user	12m50.889s
+sys	0m16.913s
+
+Model: medium Cores: 4
+
+
+
+real	2m32.416s
+user	9m54.574s
+sys	0m10.578s
+
+Model: medium Cores: 2
+
+
+
+real	3m29.769s
+user	7m4.110s
+sys	0m6.841s
+
+Model: large Cores: 6
+
+
+
+real	4m13.214s
+user	24m9.422s
+sys	0m24.141s
+
+Model: large Cores: 4
+
+
+
+real	4m42.921s
+user	18m39.204s
+sys	0m15.870s
+
+Model: large Cores: 2
+
+
+
+real	6m39.092s
+user	13m33.888s
+sys	0m10.037s
