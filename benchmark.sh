@@ -7,8 +7,8 @@ if [ ! -f audio.mp3 ]; then
 fi
 
 FILE=audio.wav
-export WHISPER_DIR=/Users/owehrens/Source/Github/whisper.cpp/
-export BIN=$WHISPER_DIR/main
+WHISPER_DIR=/Users/owehrens/Source/Github/whisper.cpp/
+BIN=$WHISPER_DIR/main
 
 CORES="6 4 2"
 MODELS="small medium large"
