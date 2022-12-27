@@ -20,6 +20,7 @@ For Whisper.cpp installed models:
 
 small, medium, large 
 
+Audio file will be downloaded during the process.
 
 
 # Run
