@@ -1,0 +1,820 @@
+1
+00:00:00,000 --> 00:00:03,000
+ * Musik *
+
+2
+00:00:03,000 --> 00:00:08,000
+ Herzlich willkommen bei Was jetzt dem Nachrichten Podcast von Zeit Online.
+
+3
+00:00:08,000 --> 00:00:11,000
+ Sie hören das Update am Montag 25. Juli.
+
+4
+00:00:11,000 --> 00:00:16,000
+ Ich rede gleich darüber, warum die Affenpocken 2 inzwischen als internationalen Notlager betrachtet werden,
+
+5
+00:00:16,000 --> 00:00:20,000
+ ist aber sehr wahrscheinlich keine zweite Pandemie geben wird.
+
+6
+00:00:20,000 --> 00:00:26,000
+ Und dann schaue ich in die ukrainische Stadt Odaessa, wo Russland nur einen Tag nach dem Getreide abkommen den Hafen bombardiert hat.
+
+7
+00:00:26,000 --> 00:00:31,000
+ Mein Name ist Moses Fendel und der Redaktionsschluss für diesen Podcast ist 16 Uhr.
+
+8
+00:00:31,000 --> 00:00:38,000
+ In mehr als 75 Ländern haben sich mittlerweile Menschen mit den Affenpocken angesteckt.
+
+9
+00:00:38,000 --> 00:00:44,000
+ Am Wochenende hat die Welt gesundert, es ist auch in der Zundersthemer zu einer Notlage von internationalem Ausmaß hochgestoift.
+
+10
+00:00:44,000 --> 00:00:48,000
+ Das ist die höchste Wahnsstufe für gesundheitliche Bedrohungen, die es bei der WHO gibt.
+
+11
+00:00:48,000 --> 00:00:55,000
+ Klingel da irgendwas bei Ihnen. Mir fällt sofort ein, dass die WHO in der Januar 2020 das damals noch neuartige Corona-Vertrag.
+
+12
+00:00:55,000 --> 00:00:58,000
+ Wir haben auch die Corona-Vertrag auf diese Stufe gerufen hat.
+
+13
+00:00:58,000 --> 00:01:00,000
+ Und wir alle wissen was danach passiert ist.
+
+14
+00:01:00,000 --> 00:01:01,000
+ Welche Parallelen es gibt?
+
+15
+00:01:01,000 --> 00:01:04,000
+ Wie für Sorgen uns die Affenpocken jetzt machen müssen?
+
+16
+00:01:04,000 --> 00:01:08,000
+ Das hoffe ich jetzt klären zu können mit Jakob Simang, dem Leiter unseres Gesundheitsresourst.
+
+17
+00:01:08,000 --> 00:01:09,000
+ Tachere Doktor.
+
+18
+00:01:09,000 --> 00:01:12,000
+ Was bedeutet die Entscheidung der WHO vom Wochenende?
+
+19
+00:01:12,000 --> 00:01:16,000
+ Sie ist eine symbolische Entscheidung würde ich sagen,
+
+20
+00:01:16,000 --> 00:01:20,000
+ denn mit dem Ausrufen dieses Gesundheitsnotstandes geht nichts rechtlich binden,
+
+21
+00:01:20,000 --> 00:01:22,000
+ das ein her.
+
+22
+00:01:22,000 --> 00:01:26,000
+ Die WHO hat aber eine Liste an Empfehlungen veröffentlicht für die Länder,
+
+23
+00:01:26,000 --> 00:01:30,000
+ die reichen von Dingen wie Testkapazitäten aufbauen.
+
+24
+00:01:30,000 --> 00:01:34,000
+ Gesundheitsarbeiter darüber aufklären, wie sich die Affenpocken bemerkt
+
+25
+00:01:34,000 --> 00:01:38,000
+ machen, ein Diskriminierungsfreien Zugang zu ermöglichen,
+
+26
+00:01:38,000 --> 00:01:42,000
+ bis hin zu Dingen wie Forschung an Kurbeln.
+
+27
+00:01:42,000 --> 00:01:45,000
+ Und die Hoffnung ist, dass das auch geschieht.
+
+28
+00:01:45,000 --> 00:01:47,000
+ Es ist nicht.
+
+29
+00:01:47,000 --> 00:01:50,000
+ Die Vergang hat auch gezeigt, dass es nicht immer geschieht,
+
+30
+00:01:50,000 --> 00:01:53,000
+ dass der Berkohrone angesprochen wurde,
+
+31
+00:01:53,000 --> 00:01:55,000
+ der wurde Ende Januar 20/20.
+
+32
+00:01:55,000 --> 00:01:58,000
+ Der Gesundheitswunder ist langer, in vielen Ländern nicht viel passiert.
+
+33
+00:01:58,000 --> 00:02:01,000
+ Aber dann ist es dann als uns das Ding richtig um die Ohrenflog,
+
+34
+00:02:01,000 --> 00:02:03,000
+ mehr hat es 20/20.
+
+35
+00:02:03,000 --> 00:02:06,000
+ Auch eine Schung sitzt, den wir vielleicht besser zu machen.
+
+36
+00:02:06,000 --> 00:02:09,000
+ Als beim letzten Mal, was für dich anderes als Covid-19.
+
+37
+00:02:09,000 --> 00:02:14,000
+ Die Situation ist nicht wirklich vergleichbar mit damals in Winter 2019/20.
+
+38
+00:02:14,000 --> 00:02:17,000
+ Prozimmer hat dich am Samstag als diese Nachricht reinkramm,
+
+39
+00:02:17,000 --> 00:02:19,000
+ schon so ein kleines Dejavühü.
+
+40
+00:02:19,000 --> 00:02:22,000
+ Wie viel Sorgen müssen wir uns machen, dass da eine zweite Pandemie,
+
+41
+00:02:22,000 --> 00:02:23,000
+ wo wir auf uns zukommt.
+
+42
+00:02:23,000 --> 00:02:25,000
+ Dass da was wie Covid auf uns zukommt.
+
+43
+00:02:25,000 --> 00:02:27,000
+ Das müssen wir nicht fürchten.
+
+44
+00:02:27,000 --> 00:02:29,000
+ Das kann man glaube ich sehr klar sagen,
+
+45
+00:02:29,000 --> 00:02:34,000
+ die Übertragung ist nicht so häufig passiert.
+
+46
+00:02:34,000 --> 00:02:37,000
+ Aber bei sehr engem Kontakt gegenwärtig vor allem,
+
+47
+00:02:37,000 --> 00:02:39,000
+ bei Männern und Sex.
+
+48
+00:02:39,000 --> 00:02:42,000
+ Bei einem Sex oder bei sehr enger Körperlicher Berührung,
+
+49
+00:02:42,000 --> 00:02:45,000
+ der Haut sozusagen stattfindet.
+
+50
+00:02:45,000 --> 00:02:48,000
+ Dass man erst mal, denke ich, endwahrenden kann,
+
+51
+00:02:48,000 --> 00:02:49,000
+ für die Breite Bevölkerung.
+
+52
+00:02:49,000 --> 00:02:52,000
+ Heißt nicht, dass man die Abenbock nicht bekommen kann.
+
+53
+00:02:52,000 --> 00:02:54,000
+ Aber es ist ganz anders als mit dieser Erosole
+
+54
+00:02:54,000 --> 00:02:56,000
+ Übertragung über die Luft bei Corona.
+
+55
+00:02:56,000 --> 00:03:00,000
+ Nichtsdestotrotz ist es natürlich nur nicht so schöne Situation.
+
+56
+00:03:00,000 --> 00:03:03,000
+ Wir haben neufs Virus, ein recht neues Virus,
+
+57
+00:03:03,000 --> 00:03:05,000
+ was ich gerade in vielen Ländern einnestet,
+
+58
+00:03:05,000 --> 00:03:09,000
+ in bestimmten Populationen, bei Männern, die Sex und Männern haben.
+
+59
+00:03:09,000 --> 00:03:12,000
+ Und von dort auch, wenn wir es nicht eingedämmt kriegen,
+
+60
+00:03:12,000 --> 00:03:16,000
+ natürlich immer wieder, also erst mal in diesen Communitys leid anrichtet.
+
+61
+00:03:16,000 --> 00:03:19,000
+ Und Probleme anrichten dann auch immer wieder heraus,
+
+62
+00:03:19,000 --> 00:03:23,000
+ sie kann, zum Beispiel, zum Menschen, die wohl eine Rabler sind,
+
+63
+00:03:23,000 --> 00:03:25,000
+ weil sie nicht die Immoterapie machen.
+
+64
+00:03:25,000 --> 00:03:27,000
+ Oder auch, wie wir es schon gesehen haben,
+
+65
+00:03:27,000 --> 00:03:29,000
+ auf Kinder übertragen werden kann und so weiter.
+
+66
+00:03:29,000 --> 00:03:31,000
+ So dass das schon gesundheitsproblem ist.
+
+67
+00:03:31,000 --> 00:03:33,000
+ Ich denke, wir sind jetzt eigentlich darüber,
+
+68
+00:03:33,000 --> 00:03:36,000
+ dass wir weniger gesundheitsprobleme besser eigentlich.
+
+69
+00:03:36,000 --> 00:03:40,000
+ Und deswegen ist das schon Schritt den viel Experten auch für richtig halten.
+
+70
+00:03:40,000 --> 00:03:45,000
+ Und vielleicht, wenn ich darf noch ein Vergleich, der vielleicht auch hilft,
+
+71
+00:03:45,000 --> 00:03:48,000
+ in der Geschichte dieser Internationalen Gesundheitsnotstände,
+
+72
+00:03:48,000 --> 00:03:52,000
+ ist das jetzt der 6. Fall und viele der Genutsche,
+
+73
+00:03:52,000 --> 00:03:55,000
+ die ausgucken wurden, hatten für unser tägliches Leben,
+
+74
+00:03:55,000 --> 00:03:57,000
+ nicht allzu viele Lewands.
+
+75
+00:03:57,000 --> 00:04:00,000
+ Da wurde in Ebola ausbruch im Kongot 2018 ausgerufen.
+
+76
+00:04:00,000 --> 00:04:03,000
+ Da wurde Polio als Gesundheitsunstand ausgerufen.
+
+77
+00:04:03,000 --> 00:04:06,000
+ Das ist auch gesundheitlich ein Problem, weltweit.
+
+78
+00:04:06,000 --> 00:04:08,000
+ Menschen müssen sich dagegen impfen lassen.
+
+79
+00:04:08,000 --> 00:04:10,000
+ Wir müssen Impfkampagern auf die Reihe kriegen.
+
+80
+00:04:10,000 --> 00:04:12,000
+ Aber es betrifft uns jetzt meistens nicht so sehr.
+
+81
+00:04:12,000 --> 00:04:14,000
+ Ich glaube, dass es dann auch manchmal hilft,
+
+82
+00:04:14,000 --> 00:04:17,000
+ diesen Vergleich zu ziehen und nicht immer den Corona-Vergleich.
+
+83
+00:04:17,000 --> 00:04:18,000
+ Danke dir, Gauk.
+
+84
+00:04:18,000 --> 00:04:19,000
+ Sehr gern.
+
+85
+00:04:19,000 --> 00:04:21,000
+ Die Gaukoper arbeitet gerade auch noch an einem ausführlichen Text,
+
+86
+00:04:21,000 --> 00:04:23,000
+ in dem wir noch mal alles zusammenfasst,
+
+87
+00:04:23,000 --> 00:04:25,000
+ was wir bisher über die Affenbocken wissen.
+
+88
+00:04:25,000 --> 00:04:28,000
+ Der Text erscheint im Laufe des Abends auf Zeit online.
+
+89
+00:04:28,000 --> 00:04:31,000
+ Erst am Freitag haben die Ukraine und Russland
+
+90
+00:04:31,000 --> 00:04:34,000
+ in Istanbul ein Abkommen unterzeichnet.
+
+91
+00:04:34,000 --> 00:04:37,000
+ Es soll der Ukraine ermöglichen Millionen Tonnen von Getreide
+
+92
+00:04:37,000 --> 00:04:39,000
+ über das Schwarze Meer zu exportieren.
+
+93
+00:04:39,000 --> 00:04:42,000
+ Ein Gefeldelt haben den Deal Türkei und die Verändernazionen.
+
+94
+00:04:42,000 --> 00:04:45,000
+ Strennen genommen sie des Zweifel an der Getrennte abkommen,
+
+95
+00:04:45,000 --> 00:04:49,000
+ weil die Ukraine sich gewagert hat einen Vertrag mit Russland zu unterzeichnen.
+
+96
+00:04:49,000 --> 00:04:50,000
+ Warum wohl?
+
+97
+00:04:50,000 --> 00:04:53,000
+ Nur ein Tag später hat Russland den Hafen von Odessa
+
+98
+00:04:53,000 --> 00:04:54,000
+ mit Raketen angegriffen.
+
+99
+00:04:54,000 --> 00:04:56,000
+ Das ist der größte Hafen der Ukraine
+
+100
+00:04:56,000 --> 00:04:59,000
+ und er spielt eine zentrale Rolle für den geplanten Getreidexport.
+
+101
+00:04:59,000 --> 00:05:02,000
+ Die rostische Regierung hat den Andriff zu erst bestritten.
+
+102
+00:05:02,000 --> 00:05:04,000
+ Gestern dann aber doch zu gegeben.
+
+103
+00:05:04,000 --> 00:05:07,000
+ Sie behauptet, dass seine militärische Infrastruktur
+
+104
+00:05:07,000 --> 00:05:09,000
+ zerstört worden unter anderem einen ukrainisches Kriegsschiff
+
+105
+00:05:09,000 --> 00:05:13,000
+ und US-amerikanische Waffen, die im Hafen gelagert worden sein sollen.
+
+106
+00:05:13,000 --> 00:05:15,000
+ Die Ukraine dagegen sagt, dass auch Hafenanlagen
+
+107
+00:05:15,000 --> 00:05:18,000
+ und ein Kunstmuseum beschädigt worden sein sollen.
+
+108
+00:05:18,000 --> 00:05:21,000
+ Mein Zeit Online-Kollege Christian Foren recherchiert gerade in Odessa.
+
+109
+00:05:21,000 --> 00:05:24,000
+ Ich wollte von ihm wissen, wie er die Stimmung in der Stadt im Moment erlebt.
+
+110
+00:05:24,000 --> 00:05:26,000
+ Wenn man gerade durch Udesser läuft,
+
+111
+00:05:26,000 --> 00:05:30,000
+ sieht es eigentlich nicht so aus, als würde sich jemand wahnsinnig beeindrucken
+
+112
+00:05:30,000 --> 00:05:33,000
+ lassen von den jüngsten Angriffen vor nicht mal.
+
+113
+00:05:33,000 --> 00:05:36,000
+ An der Teil Tagen, die Leute waren gestern
+
+114
+00:05:36,000 --> 00:05:38,000
+ auch auf den Straßen haben getrunken,
+
+115
+00:05:38,000 --> 00:05:41,000
+ haben gegessen, haben zum Teil getanzt.
+
+116
+00:05:41,000 --> 00:05:44,000
+ Und es wird nicht so ein Zettemann jetzt hier,
+
+117
+00:05:44,000 --> 00:05:47,000
+ besonders viel Angst vor weiteren Angriffen.
+
+118
+00:05:47,000 --> 00:05:50,000
+ Den Angriff selbst hat Christian für ein weiteres Posteltheil
+
+119
+00:05:50,000 --> 00:05:52,000
+ von Putin's Psychologischer Kriegführung.
+
+120
+00:05:52,000 --> 00:05:55,000
+ Ein Tag nach dem Abkommen des Schwarz-Märblocada
+
+121
+00:05:55,000 --> 00:05:58,000
+ aufgehoben werden könnte.
+
+122
+00:05:58,000 --> 00:06:00,000
+ Hat er einfach noch mal klar gemacht,
+
+123
+00:06:00,000 --> 00:06:04,000
+ dass der Hafen in Reichweite russischer Raketen ist
+
+124
+00:06:04,000 --> 00:06:08,000
+ und dass jeder der jetzt mit einem Schiff versucht,
+
+125
+00:06:08,000 --> 00:06:12,000
+ schwarzen mehr zu fahren, sich dem Risiko auszutaten.
+
+126
+00:06:12,000 --> 00:06:15,000
+ Ist das Getreide abkommen, damit womöglich schon wieder hinfällig?
+
+127
+00:06:15,000 --> 00:06:18,000
+ Um diese Frage zu beantworten, ist es wohl noch zu früh.
+
+128
+00:06:18,000 --> 00:06:20,000
+ Man kann aber mit Sicherheit sagen,
+
+129
+00:06:20,000 --> 00:06:22,000
+ dass es dadurch nicht leichter geworden ist.
+
+130
+00:06:22,000 --> 00:06:26,000
+ Das liegen immer noch Millionen Tonnen getreide
+
+131
+00:06:26,000 --> 00:06:28,000
+ in den Silos, in den Lagern,
+
+132
+00:06:28,000 --> 00:06:33,000
+ die auf dem Landweg kaum rauszukommen sind.
+
+133
+00:06:33,000 --> 00:06:35,000
+ Gleichzeitig ist es momentärnte,
+
+134
+00:06:35,000 --> 00:06:38,000
+ und die Lager müssten jetzt eigentlich leer sein,
+
+135
+00:06:38,000 --> 00:06:41,000
+ damit sie dann mit den frischen Ernten gefüllt werden könnten.
+
+136
+00:06:41,000 --> 00:06:44,000
+ Insofern eine Vertragte Situation,
+
+137
+00:06:44,000 --> 00:06:47,000
+ aber die Menschen nur deshalb scheinen sich davon
+
+138
+00:06:47,000 --> 00:06:49,000
+ nicht runterziehen zu lassen.
+
+139
+00:06:49,000 --> 00:06:51,000
+ Danke nach Odessa Christian.
+
+140
+00:06:51,000 --> 00:06:53,000
+ Wenn Sie vorhaben,
+
+141
+00:06:53,000 --> 00:06:55,000
+ Am Mittwoch mit der Lufthandel irgendwo hinzufliegen,
+
+142
+00:06:55,000 --> 00:06:57,000
+ müssen sich auf Probleme einstellen,
+
+143
+00:06:57,000 --> 00:06:59,000
+ denn die Gewerkschaftwärde hat das Lufthandel
+
+144
+00:06:59,000 --> 00:07:02,000
+ Bodenpersonal für Übermorgung zu einem ganz täglichen
+
+145
+00:07:02,000 --> 00:07:03,000
+ Wahnstreig aufgerufen.
+
+146
+00:07:03,000 --> 00:07:05,000
+ Wer die sagt, dass viele Flüge ausfallen
+
+147
+00:07:05,000 --> 00:07:06,000
+ oder sich verzögern.
+
+148
+00:07:06,000 --> 00:07:08,000
+ Zum Bodenpersonal gehören,
+
+149
+00:07:08,000 --> 00:07:10,000
+ z.B. Technikerinnen oder Logistiker,
+
+150
+00:07:10,000 --> 00:07:12,000
+ ohne sie geht nichts am Flughafen
+
+151
+00:07:12,000 --> 00:07:14,000
+ oder besser gesagt, ohne sie fliegt nichts.
+
+152
+00:07:14,000 --> 00:07:17,000
+ Ihre Arbeitsumgebung müssen wir uns ungefähr so vorstellen.
+
+153
+00:07:17,000 --> 00:07:20,000
+ * Musik *
+
+154
+00:07:20,000 --> 00:07:25,000
+ Natürlich trägt das Bodenpersonal bei der Arbeit
+
+155
+00:07:25,000 --> 00:07:26,000
+ auf dem Wolfwelt Gehörschrutz,
+
+156
+00:07:26,000 --> 00:07:29,000
+ aber denken Sie sich jetzt mal auf den typischen Kerosiengeruch dazu
+
+157
+00:07:29,000 --> 00:07:31,000
+ und stellen Sie sich vor bei den aktuellen Somatemperatur
+
+158
+00:07:31,000 --> 00:07:35,000
+ in Arbeitsschutzkleidung auf einer großen Bittongfläche rumzulaufen.
+
+159
+00:07:35,000 --> 00:07:37,000
+ Ich glaube, dann haben Sie den ungefährres Bild
+
+160
+00:07:37,000 --> 00:07:39,000
+ von der Arbeitsbelastung dieser Menschen.
+
+161
+00:07:39,000 --> 00:07:41,000
+ Es geht um ungefähr 20.000 Beschäftigte.
+
+162
+00:07:41,000 --> 00:07:43,000
+ Ein erstes Angebot der Lufthandel hat,
+
+163
+00:07:43,000 --> 00:07:44,000
+ wer die abgelehnt,
+
+164
+00:07:44,000 --> 00:07:47,000
+ aber Anfang August soll weiter fandet werden.
+
+165
+00:07:47,000 --> 00:07:50,000
+ Wer die fordert unter anderem fast 10% mehr Lohn.
+
+166
+00:07:50,000 --> 00:07:52,000
+ Das klingt ungewöhnlich viel,
+
+167
+00:07:52,000 --> 00:07:55,000
+ wer die Held- die forderung aber für gerechtfertigt.
+
+168
+00:07:55,000 --> 00:07:58,000
+ Wiggen der Momentan Überlastung, der Hohnenflation
+
+169
+00:07:58,000 --> 00:08:00,000
+ und die Beschäftigten für drei Jahre
+
+170
+00:08:00,000 --> 00:08:02,000
+ auf einen Teil ihres Lohns verzichtet hätten.
+
+171
+00:08:02,000 --> 00:08:04,000
+ Dieser Streik fällt jetzt in einer Zeit,
+
+172
+00:08:04,000 --> 00:08:07,000
+ in der die Lager in den deutschen Flughafen sowieso schon angespannt ist.
+
+173
+00:08:07,000 --> 00:08:10,000
+ Es hat in den letzten Wochen immer wieder Chaos gegeben,
+
+174
+00:08:10,000 --> 00:08:12,000
+ weil in den Urlaub fliegen.
+
+175
+00:08:12,000 --> 00:08:15,000
+ Für die Probleme der Luftfahrtbomische ist der Personalmangel.
+
+176
+00:08:15,000 --> 00:08:20,000
+ Deshalb sind die gewerkschaften in einer starken Verhandungsposition gegenüber den Arbeitgebern.
+
+177
+00:08:20,000 --> 00:08:22,000
+ In diesem Fall der Lufthandel.
+
+178
+00:08:22,000 --> 00:08:25,000
+ Was noch?
+
+179
+00:08:25,000 --> 00:08:27,000
+ Gut, anderthalb Jahre ist es jetzt her,
+
+180
+00:08:27,000 --> 00:08:30,000
+ dass die agentinische Fußballregende Dägeometer Adonner gestorben ist.
+
+181
+00:08:30,000 --> 00:08:34,000
+ In seiner Heimat Argentinien und auch in seiner zwischenzeitlichen Wahlheimat
+
+182
+00:08:34,000 --> 00:08:38,000
+ Neapelträgt die Maradona-Verärung bis heute gerade zu religiöse Züge.
+
+183
+00:08:38,000 --> 00:08:41,000
+ Eine seiner Spitznahme ist zum Beispiel Dios, Spanisch für Gott.
+
+184
+00:08:41,000 --> 00:08:45,000
+ Geschrieben mit der Zeit zehn in der Mitte, also D1 0s.
+
+185
+00:08:45,000 --> 00:08:47,000
+ Denn die zehn war Maradona's rücken Nummer.
+
+186
+00:08:47,000 --> 00:08:50,000
+ Wer Maradona noch was mit auf die Reise geben will,
+
+187
+00:08:50,000 --> 00:08:52,000
+ kann das seit dem Wochenende machen.
+
+188
+00:08:52,000 --> 00:08:55,000
+ Denn ein Privatisunternehmen sammelt Audio- und Video-Botschaften,
+
+189
+00:08:55,000 --> 00:08:59,000
+ die demnächst auf einer Festplatte zusammen mit einem Parfand Maradona's Fußball-Schulen
+
+190
+00:08:59,000 --> 00:09:01,000
+ mit einem Sateliten ins Allgeschickt werden sollen.
+
+191
+00:09:01,000 --> 00:09:03,000
+ Der Sateliteist kosmischer Drache.
+
+192
+00:09:03,000 --> 00:09:07,000
+ Das ist eine Anspielung auf einen Fernsehkommentar aus dem Jahr 1986.
+
+193
+00:09:07,000 --> 00:09:13,000
+ Maradona hat gerade ein Spektakuläres ein wunderschönes Tor im Viertel-Finale der Weltmeisterschaft
+
+194
+00:09:13,000 --> 00:09:14,000
+ gegen England geschossen.
+
+195
+00:09:14,000 --> 00:09:19,000
+ Es wurde später zum Tor des Jahrhunderts gewählt und Argentinien wurde am Ende Weltmeister.
+
+196
+00:09:19,000 --> 00:09:24,000
+ Der Reporter im Fernsehen ist damals auf typisch Südamerikanische Weise ausgerastet.
+
+197
+00:09:24,000 --> 00:09:29,000
+ Hat Maradona einen kosmischen Drachen genannt und ihn gefragt von welchem Planeten erkomme.
+
+198
+00:09:29,000 --> 00:09:33,000
+ Jetzt wäre er die Frage, ob Maradona auch dort hinzuruke, kärt ist.
+
+199
+00:09:35,000 --> 00:09:38,000
+ Das war das Update von was jetzt am Montagnamidag morgen früh,
+
+200
+00:09:38,000 --> 00:09:41,000
+ sprich dir Konzanzer kein super deutsche Panzer für die Ukraine
+
+201
+00:09:41,000 --> 00:09:45,000
+ und warum der viel diskutierte Ringtausch mit unseren östlichen EU nach Bann
+
+202
+00:09:45,000 --> 00:09:47,000
+ nur so schleppend voran kommt.
+
+203
+00:09:47,000 --> 00:09:50,000
+ Ich heiße Moses Fendel, danke fürs Zuhören und Tschüss.
+
+204
+00:09:50,000 --> 00:09:55,000
+ * Musik *
+
+205
+00:09:55,000 --> 00:10:00,000
+ * Musik *
+

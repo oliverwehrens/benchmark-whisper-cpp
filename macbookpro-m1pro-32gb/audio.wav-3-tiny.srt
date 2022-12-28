@@ -1,0 +1,768 @@
+1
+00:00:00,000 --> 00:00:03,000
+ * Musik *
+
+2
+00:00:03,000 --> 00:00:08,360
+ Herzlich willkommen bei Was jetzt dem Nachrichten Podcast von Zeit Online.
+
+3
+00:00:08,360 --> 00:00:11,360
+ Sie hören das Update am Montag 25. Juli.
+
+4
+00:00:11,360 --> 00:00:14,200
+ Ich rede gleich darüber, warum die Affenpocken 2 inzwischen
+
+5
+00:00:14,200 --> 00:00:16,800
+ als internationale Notlage betrachtet werden,
+
+6
+00:00:16,800 --> 00:00:20,120
+ aber sehr wahrscheinlich keine zweite Pandemie geben wird.
+
+7
+00:00:20,120 --> 00:00:22,520
+ Und dann schaue ich in die ukrainische Stadt Odaessa,
+
+8
+00:00:22,520 --> 00:00:25,040
+ wo Russland nur einen Tag nach dem Getreide abkommen,
+
+9
+00:00:25,040 --> 00:00:26,720
+ den Hafen bombardiert hat.
+
+10
+00:00:26,720 --> 00:00:29,120
+ Mein Name ist Moses Fendel und der Redaktionsschluss
+
+11
+00:00:29,120 --> 00:00:31,120
+ für diesen Podcast ist 16 Uhr.
+
+12
+00:00:31,120 --> 00:00:37,440
+ In mehr als 75 Ländern haben sich mittlerweile Menschen
+
+13
+00:00:37,440 --> 00:00:39,080
+ mit den Affenpocken angesteckt.
+
+14
+00:00:39,080 --> 00:00:40,640
+ Am Wochenende hat die Welt gesundert,
+
+15
+00:00:40,640 --> 00:00:44,880
+ dass es zu einer Notlage von internationalem Ausmaß hochgestoift.
+
+16
+00:00:44,880 --> 00:00:47,520
+ Das ist die höchste Wahinstoffel für gesundheitliche Bedrohungen,
+
+17
+00:00:47,520 --> 00:00:48,880
+ die es bei der WHO gibt.
+
+18
+00:00:48,880 --> 00:00:50,720
+ Klingel da irgendwas bei Ihnen.
+
+19
+00:00:50,720 --> 00:00:53,960
+ Mir fällt sofort ein, dass die WHO in der Januar 2020
+
+20
+00:00:53,960 --> 00:00:58,240
+ das damals noch neuartige Coronavirus auch auf diese Stufe geroben hat.
+
+21
+00:00:58,240 --> 00:01:00,240
+ Und wir alle wissen, was danach passiert ist.
+
+22
+00:01:00,240 --> 00:01:01,840
+ Welche Parallelen es gibt?
+
+23
+00:01:01,840 --> 00:01:04,240
+ Wie für Sorgen uns die Affenpocken jetzt machen müssen?
+
+24
+00:01:04,240 --> 00:01:06,240
+ Das hoffe ich jetzt klären zu können mit Jakob Simang,
+
+25
+00:01:06,240 --> 00:01:08,240
+ dem Leiter unseres Gesundheitsresourst.
+
+26
+00:01:08,240 --> 00:01:09,240
+ Tacher Doktor.
+
+27
+00:01:09,240 --> 00:01:12,240
+ Was bedeutet die Entscheidung der WHO vom Wochenende?
+
+28
+00:01:12,240 --> 00:01:16,240
+ Sie ist eine symbolische Entscheidung würde ich sagen,
+
+29
+00:01:16,240 --> 00:01:19,240
+ denn mit dem Ausrufen dieses Gesundheitsnotstandes
+
+30
+00:01:19,240 --> 00:01:22,240
+ geht nichts rechtlich binden, dass ein her.
+
+31
+00:01:22,240 --> 00:01:25,240
+ Die WHO hat aber eine Liste an Empfehlung
+
+32
+00:01:25,240 --> 00:01:29,240
+ und die Liste für die Länder, die reichen von Dingen wie Testkapazitäten
+
+33
+00:01:29,240 --> 00:01:30,240
+ aufbauen.
+
+34
+00:01:30,240 --> 00:01:34,240
+ Gesundheitsarbeiter darüber aufklären, wie sich die Affenpocken bemerkt
+
+35
+00:01:34,240 --> 00:01:38,240
+ machen, ein Diskriminierungsfreien Zugang zu ermöglichen,
+
+36
+00:01:38,240 --> 00:01:41,240
+ bis hin zu Dingen wie Forschung an Kurbeln.
+
+37
+00:01:41,240 --> 00:01:44,240
+ Und die Hoffnung ist, dass das jetzt auch geschieht.
+
+38
+00:01:44,240 --> 00:01:46,240
+ Rechtlich binden, ist es nicht.
+
+39
+00:01:46,240 --> 00:01:49,240
+ Und ich vergangen hat auch gezeigt, dass nicht immer geschieht,
+
+40
+00:01:49,240 --> 00:01:51,240
+ dass der selber Corona angesprochen wurde,
+
+41
+00:01:51,240 --> 00:01:53,240
+ Ende Januar 2020.
+
+42
+00:01:53,240 --> 00:01:55,240
+ Und das ist schon schon ausgerufen.
+
+43
+00:01:55,240 --> 00:01:57,240
+ Und dann ist lange in vielen Ländern nicht viel passiert,
+
+44
+00:01:57,240 --> 00:02:01,240
+ sondern erst dann als uns das Ding richtig um die Ohrenflog,
+
+45
+00:02:01,240 --> 00:02:03,240
+ also mehr Arzt hat es 20/20.
+
+46
+00:02:03,240 --> 00:02:05,240
+ Also auch eine schon gesetzt Dinge,
+
+47
+00:02:05,240 --> 00:02:07,240
+ vielleicht besser zu machen als beim letzten Mal.
+
+48
+00:02:07,240 --> 00:02:10,240
+ Die Affenpocken sind ja was völlig anderes als Covid-19.
+
+49
+00:02:10,240 --> 00:02:14,240
+ Die Situation ist nicht wirklich vergleichbar mit damals in Winter 2019,
+
+50
+00:02:14,240 --> 00:02:14,240
+ sondern 20.
+
+51
+00:02:14,240 --> 00:02:17,240
+ Prozimmer hat ich am Samstag als diese Nachricht,
+
+52
+00:02:17,240 --> 00:02:19,240
+ reinkamst und kleines Dejahbühe.
+
+53
+00:02:19,240 --> 00:02:21,240
+ Wie viel Sorgen müssen wir uns machen,
+
+54
+00:02:21,240 --> 00:02:23,240
+ die wir uns machen, die wir uns machen,
+
+55
+00:02:23,240 --> 00:02:25,240
+ die wir uns machen, die wir uns machen,
+
+56
+00:02:25,240 --> 00:02:27,240
+ die wir uns machen, die wir uns machen,
+
+57
+00:02:27,240 --> 00:02:29,240
+ die wir uns machen, die wir uns machen,
+
+58
+00:02:29,240 --> 00:02:31,240
+ die wir uns machen, die wir uns machen,
+
+59
+00:02:31,240 --> 00:02:33,240
+ die wir uns machen, die wir uns machen,
+
+60
+00:02:33,240 --> 00:02:35,240
+ die wir uns machen, die wir uns machen,
+
+61
+00:02:35,240 --> 00:02:37,240
+ die wir uns machen, die wir uns machen,
+
+62
+00:02:37,240 --> 00:02:39,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+63
+00:02:39,240 --> 00:02:41,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+64
+00:02:41,240 --> 00:02:43,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+65
+00:02:43,240 --> 00:02:45,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+66
+00:02:45,240 --> 00:02:47,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+67
+00:02:47,240 --> 00:02:49,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+68
+00:02:49,240 --> 00:02:51,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+69
+00:02:51,240 --> 00:02:53,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+70
+00:02:53,240 --> 00:02:55,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+71
+00:02:55,240 --> 00:02:57,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+72
+00:02:57,240 --> 00:02:59,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+73
+00:02:59,240 --> 00:03:01,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+74
+00:03:01,240 --> 00:03:03,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+75
+00:03:03,240 --> 00:03:05,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+76
+00:03:05,240 --> 00:03:07,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+77
+00:03:07,240 --> 00:03:09,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+78
+00:03:09,240 --> 00:03:11,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+79
+00:03:11,240 --> 00:03:13,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+80
+00:03:13,240 --> 00:03:21,240
+ die wir uns machen, die wir uns machen, die wir uns machen, die wir uns machen,
+
+81
+00:03:21,240 --> 00:03:25,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+82
+00:03:25,240 --> 00:03:27,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+83
+00:03:27,240 --> 00:03:29,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+84
+00:03:29,240 --> 00:03:31,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+85
+00:03:31,240 --> 00:03:33,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+86
+00:03:33,240 --> 00:03:35,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+87
+00:03:35,240 --> 00:03:37,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+88
+00:03:37,240 --> 00:03:39,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+89
+00:03:39,240 --> 00:03:41,240
+ die wir uns machen, die wir uns machen, die wir uns machen,
+
+90
+00:03:41,240 --> 00:03:45,240
+ die wir uns machen, die wir uns machen, die wir uns machen, die wir uns machen,
+
+91
+00:03:45,240 --> 00:03:47,240
+ die wir uns machen, die wir uns machen, die wir uns machen, die wir uns machen,
+
+92
+00:03:47,240 --> 00:03:51,240
+ die wir uns machen, die wir uns machen, die wir uns machen, die wir uns machen,
+
+93
+00:03:51,240 --> 00:03:53,240
+ die wir uns machen, die wir uns machen, die wir uns machen, die wir uns machen,
+
+94
+00:03:53,240 --> 00:03:57,240
+ die wir uns machen, die wir uns machen, die wir uns machen, die wir uns machen,
+
+95
+00:03:57,240 --> 00:03:59,240
+ die wir uns machen, die wir uns machen, die wir uns machen, die wir uns machen,
+
+96
+00:03:59,240 --> 00:04:01,240
+ die wir uns machen, die wir uns machen, die wir uns machen, die wir uns machen,
+
+97
+00:04:01,240 --> 00:04:05,240
+ die wir uns machen, die wir uns machen, die wir uns machen, die wir uns machen,
+
+98
+00:04:05,240 --> 00:04:09,240
+ die wir uns machen, die wir uns machen, die wir uns machen, die wir uns machen,
+
+99
+00:04:09,240 --> 00:04:13,240
+ aber es betrifft uns jetzt meistens nicht so sehr. Und ich glaube, dass es dann auch manchmal hilft,
+
+100
+00:04:13,240 --> 00:04:15,240
+ diesen Vergleich zu ziehen und nicht immer in Corona-Vergleich.
+
+101
+00:04:15,240 --> 00:04:20,240
+ Danke, der ja, Kock. Sehr gern. Und ja, Kock, aber wird gerade auch noch an einem ausführlichen Text,
+
+102
+00:04:20,240 --> 00:04:24,240
+ in dem wir noch mal alles zusammenfasst, was wir bisher über die Affenpocken wissen.
+
+103
+00:04:24,240 --> 00:04:27,240
+ Der Text erscheint im Laufe des Abends auf Zeit online.
+
+104
+00:04:27,240 --> 00:04:33,240
+ Erst am Freitag haben die Ukraine und Russland in Istanbul ein Abkommen unterzeichnet.
+
+105
+00:04:33,240 --> 00:04:38,240
+ Es soll der Ukraine ermöglichen Millionen Tonnen von Getreide über das Schwarze mehr zu exportieren,
+
+106
+00:04:38,240 --> 00:04:41,240
+ eingefädelt haben den Deal die Türkei und die Vereinten Nationen,
+
+107
+00:04:41,240 --> 00:04:44,240
+ streng genommen sie des Zweifel an der Getrente abkommen,
+
+108
+00:04:44,240 --> 00:04:47,240
+ weil die Ukraine sich gewagert hat einen Vertrag mit Russland zu unterzeichnen.
+
+109
+00:04:47,240 --> 00:04:49,240
+ Warum wohl?
+
+110
+00:04:49,240 --> 00:04:53,240
+ Nur ein Tag später hat Russland den Hafen von Odessa mit Raketen angegriffen,
+
+111
+00:04:53,240 --> 00:04:58,240
+ das ist der größte Hafen der Ukraine und er spielt eine zentrale Rolle für den geplanten Getreide Export.
+
+112
+00:04:58,240 --> 00:05:01,240
+ Die russische Regierung hat den Angriff zuerst bestritten,
+
+113
+00:05:01,240 --> 00:05:04,240
+ gestern dann aber doch zu gegeben. Sie behauptet,
+
+114
+00:05:04,240 --> 00:05:08,240
+ dass die politische Infrastruktur zuerst stört worden unter anderem einen ukrainisches Kriegsschiff
+
+115
+00:05:08,240 --> 00:05:12,240
+ und US-amerikanische Waffen, die im Hafen gelagert worden sein sollen.
+
+116
+00:05:12,240 --> 00:05:17,240
+ Die Ukraine dagegen sagt, dass auch Hafenanlagen und ein Kunstmuseum beschädigt worden sein sollen.
+
+117
+00:05:17,240 --> 00:05:21,240
+ Mein Zeit online Kollege Christian Foren recherchiert gerade in Odessa.
+
+118
+00:05:21,240 --> 00:05:24,240
+ Ich wollte von ihm wissen, wie er die Stimmung in der Stadt im Moment erlebt.
+
+119
+00:05:24,240 --> 00:05:27,240
+ Wenn man gerade durch U.S. er läuft, sieht es nicht so aus,
+
+120
+00:05:27,240 --> 00:05:30,240
+ als will es sich jemand beendruht.
+
+121
+00:05:30,240 --> 00:05:34,240
+ Das ist ein von den jüngsten Angriffen vor nicht mal.
+
+122
+00:05:34,240 --> 00:05:37,240
+ An der Teiltag, die Leute waren gestern,
+
+123
+00:05:37,240 --> 00:05:40,240
+ auch auf den Straßen haben getrunken, haben gegessen,
+
+124
+00:05:40,240 --> 00:05:47,240
+ haben zum Teil getanzt und es wird nicht so ein Zettemann jetzt hier besonders viel Angst vorbreiterem anggriffen.
+
+125
+00:05:47,240 --> 00:05:52,240
+ Den Angriff selbst hat Christian für ein weiteres Puzzle Teil von Putin's Psychologischer Kriegführung.
+
+126
+00:05:52,240 --> 00:05:57,240
+ Ein Tag nach dem Abkommen, das die schwarz-märblocata aufgehoben werden könnte,
+
+127
+00:05:57,240 --> 00:06:00,240
+ hat er einfach noch mal klar gemacht,
+
+128
+00:06:00,240 --> 00:06:04,240
+ dass der Hafen in Reichweite russischer Raketen ist.
+
+129
+00:06:04,240 --> 00:06:08,240
+ Und dass jeder, der jetzt mit einem Schiff versucht,
+
+130
+00:06:08,240 --> 00:06:13,240
+ schwarz-märzt zu fahren, sich dem Risiko auszutaten, angriffen zu werden.
+
+131
+00:06:13,240 --> 00:06:16,240
+ Ist das Getreide abkommen, damit womöglich schon wieder hinfällig,
+
+132
+00:06:16,240 --> 00:06:19,240
+ um diese Frage zu beantworten, ist es wohl noch zu früh.
+
+133
+00:06:19,240 --> 00:06:23,240
+ Man kann aber mit Sicherheit sagen, dass es nicht leichter geworden ist.
+
+134
+00:06:23,240 --> 00:06:28,240
+ Das liegt immer noch mehr die Onenton Getreide in den Silos in den Lagern,
+
+135
+00:06:28,240 --> 00:06:33,240
+ die auf dem Landweg kaum rauszukommen sind.
+
+136
+00:06:33,240 --> 00:06:38,240
+ Gleichzeitig ist es momentärnte Saison und die Lager müssten jetzt eigentlich leer sein,
+
+137
+00:06:38,240 --> 00:06:41,240
+ damit sie dann mit den frischen Ernten gefüllt werden könnten.
+
+138
+00:06:41,240 --> 00:06:49,240
+ Insofern eine Vertragte Situation, aber die Menschen nur deshalb scheinen sich davon nicht rundherzieren zu lassen.
+
+139
+00:06:49,240 --> 00:06:51,240
+ Danke nach Odessa Christian.
+
+140
+00:06:52,240 --> 00:06:55,240
+ Wenn Sie vorhaben, am Mittwoch mit der Lufthandel irgendwo hinzufliegen,
+
+141
+00:06:55,240 --> 00:06:59,240
+ müssen sich auf Probleme einstellen, denn die Gewerkschaftwärde hat das Lufthandel
+
+142
+00:06:59,240 --> 00:07:03,240
+ Bodenpersonal für Übermorgung zu einem ganz täglichen Wahnstreig aufgerufen.
+
+143
+00:07:03,240 --> 00:07:06,240
+ Wer die sagt, dass viele Flüge ausfallen oder sich verzögern.
+
+144
+00:07:06,240 --> 00:07:10,240
+ Zum Bodenpersonal gehören zum Beispiel Technikerinnen oder Logistiker,
+
+145
+00:07:10,240 --> 00:07:14,240
+ ohne sie geht nichts am Flughafen oder besser gesagt ohne sie fliegt nichts.
+
+146
+00:07:14,240 --> 00:07:17,240
+ Ihre Arbeitsumgebung müssen wir uns ungefähr so vorstellen.
+
+147
+00:07:17,240 --> 00:07:24,240
+ Natürlich trägt das Bodenpersonal bei der Arbeit auf dem Wolfwelt Gehörschrutz,
+
+148
+00:07:24,240 --> 00:07:27,240
+ aber denken Sie sich jetzt mal auf den typischen Kerosiengeruch dazu
+
+149
+00:07:27,240 --> 00:07:31,240
+ und stellen Sie sich vor bei den aktuellen Somatemperatur in Arbeitsschutzkleidung
+
+150
+00:07:31,240 --> 00:07:34,240
+ auf einer großen Betonfläche rumzulaufen.
+
+151
+00:07:34,240 --> 00:07:38,240
+ Ich glaube, dann haben Sie den Ungefährres Bild von der Arbeitsbelastung dieser Menschen.
+
+152
+00:07:38,240 --> 00:07:40,240
+ Es geht um ungefähr 20.000 Beschäftigte.
+
+153
+00:07:40,240 --> 00:07:43,240
+ Ein erstes Angebot der Lufthandel hat, wer die abgelehnt,
+
+154
+00:07:43,240 --> 00:07:46,240
+ aber Anfang August soll weiter fandet werden,
+
+155
+00:07:46,240 --> 00:07:49,240
+ wer die fordert unter anderem fast 10% mehr Lohn.
+
+156
+00:07:49,240 --> 00:07:51,240
+ Das klingt ungewöhnlich viel, finde ich.
+
+157
+00:07:51,240 --> 00:07:54,240
+ Wer die Held die Forderung aber für gerechtfertigt,
+
+158
+00:07:54,240 --> 00:07:58,240
+ wegen der Momentan Überlastung der Hundeinflation und Beschäftigten
+
+159
+00:07:58,240 --> 00:08:01,240
+ für drei Jahre auf einen Teil ihres Lohns verzichtet hätten.
+
+160
+00:08:01,240 --> 00:08:06,240
+ Dieser Streik fällt jetzt in einer Zeit, in der die Lager in den deutschen Flughafen sowieso schon angespannt ist.
+
+161
+00:08:06,240 --> 00:08:09,240
+ Es hat in den letzten Wochen immer wieder Chaos gegeben,
+
+162
+00:08:09,240 --> 00:08:11,240
+ weil in den Oldopfliegen im Moment viele Leute in den Oldopfliegen.
+
+163
+00:08:11,240 --> 00:08:14,240
+ Ein Grund für die Probleme der Luftfahrtbomische ist der Personalmangel
+
+164
+00:08:14,240 --> 00:08:19,240
+ und deshalb sind die gewerkschaften gerade auch in einer starken Verhandlungsposition gegenüber den Arbeitgebern.
+
+165
+00:08:19,240 --> 00:08:21,240
+ In diesem Fall der Lufthandel.
+
+166
+00:08:21,240 --> 00:08:25,240
+ Was noch?
+
+167
+00:08:25,240 --> 00:08:28,240
+ Gut, anderthalb Jahre ist es jetzt her, dass die agentinische Fußballegende
+
+168
+00:08:28,240 --> 00:08:30,240
+ die Ego Maradona gestorben ist.
+
+169
+00:08:30,240 --> 00:08:34,240
+ In seiner Heimat Argentinien und auch in seiner zwischenzeitlichen Wahlheimatne Abhildt
+
+170
+00:08:34,240 --> 00:08:37,240
+ trägt die Maradona-Verährung bis heute gerade zu religiöse Züge.
+
+171
+00:08:37,240 --> 00:08:41,240
+ Eine seiner Spitzenamen ist zum Beispiel die Os Spanisch für Gott geschrieben.
+
+172
+00:08:41,240 --> 00:08:45,240
+ Der Zeit zehn in der Mitte, also D1 0s.
+
+173
+00:08:45,240 --> 00:08:47,240
+ Denn die zehn war Maradona's rücken Nummer.
+
+174
+00:08:47,240 --> 00:08:51,240
+ Wer Maradona noch was mit auf die Reise geben will, kann das seit dem Wochenende machen.
+
+175
+00:08:51,240 --> 00:08:55,240
+ Denn ein Privat ist unternehmen sammelt Audio- und Video-Botschaften,
+
+176
+00:08:55,240 --> 00:08:58,240
+ die demnächst auf einer Festplatte zusammen mit einem Parfand Maradona's Fußball-Schulen
+
+177
+00:08:58,240 --> 00:09:01,240
+ mit einem Sateliten ins Allgeschickt werden sollen.
+
+178
+00:09:01,240 --> 00:09:03,240
+ Der Satelite ist kosmischer Drache.
+
+179
+00:09:03,240 --> 00:09:07,240
+ Das ist eine Anspielung auf einen Fernsehkommenthaus, die Mianon z.B.
+
+180
+00:09:07,240 --> 00:09:12,240
+ Maradona hat gerade einen spektakuläres, ein wunderschönes Tor im Viertel-Finale
+
+181
+00:09:12,240 --> 00:09:14,240
+ der Weltmeisterschaft gegen England geschossen.
+
+182
+00:09:14,240 --> 00:09:19,240
+ Es wurde später zum Tor des Jahrhunderts gewählt und Argentinien wurde am Ende Weltmeister.
+
+183
+00:09:19,240 --> 00:09:23,240
+ Der Reporter im Fernsehen ist damals auf typisch Südamerikanische Weise ausgerastet.
+
+184
+00:09:23,240 --> 00:09:28,240
+ Hat Maradona einen kosmischen Drachen genannt und ihn gefragt von welchem Planeten erkomme.
+
+185
+00:09:28,240 --> 00:09:32,240
+ Jetzt wäre er die Frage, ob Maradona auch dort hinzurucke kärt ist.
+
+186
+00:09:32,240 --> 00:09:38,240
+ Das war das Update von was jetzt am Montagnamidag morgen früh.
+
+187
+00:09:38,240 --> 00:09:41,240
+ Sprich dir Konzanzer kein super deutsche Panzer für die Ukraine.
+
+188
+00:09:41,240 --> 00:09:45,240
+ Und warum der viel diskutierte Ringtoursch mit unseren östlichen EU nach Bannen
+
+189
+00:09:45,240 --> 00:09:47,240
+ nur so schleppend voran kommt.
+
+190
+00:09:47,240 --> 00:09:50,240
+ Ich heiße Moses Fendel, danke fürs Zuhören und Tschüss.
+
+191
+00:09:50,240 --> 00:09:55,240
+ * Musik *
+
+192
+00:09:55,240 --> 00:10:00,240
+ * Musik *
+

@@ -1,0 +1,216 @@
+whisper_model_load: loading model from '/Users/owehrens/Source/Github/whisper.cpp//models/ggml-base.bin'
+whisper_model_load: n_vocab       = 51865
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 512
+whisper_model_load: n_audio_head  = 8
+whisper_model_load: n_audio_layer = 6
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 512
+whisper_model_load: n_text_head   = 8
+whisper_model_load: n_text_layer  = 6
+whisper_model_load: n_mels        = 80
+whisper_model_load: f16           = 1
+whisper_model_load: type          = 2
+whisper_model_load: adding 1608 extra tokens
+whisper_model_load: mem_required  =  506.00 MB
+whisper_model_load: ggml ctx size =  140.60 MB
+whisper_model_load: memory size   =   22.83 MB
+whisper_model_load: model size    =  140.54 MB
+
+system_info: n_threads = 2 / 8 | AVX = 0 | AVX2 = 0 | AVX512 = 0 | NEON = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | 
+
+main: processing 'audio.wav-2-base' (9605956 samples, 600.4 sec), 2 threads, 1 processors, lang = german, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:03.000]   * Musik *
+[00:00:03.000 --> 00:00:08.400]   Herzlich willkommen bei "Was Jetzt", dem Nachrichten Podcast von Zeit online.
+[00:00:08.400 --> 00:00:11.440]   Sie hören das Update am Montag den 25. Juli.
+[00:00:11.440 --> 00:00:13.680]   Ich rede gleich darüber, warum die Affenpocken
+[00:00:13.680 --> 00:00:16.960]   zwar inzwischen als internationale Notlage betrachtet werden,
+[00:00:16.960 --> 00:00:20.240]   ist aber sehr wahrscheinlich keine zweite Pandemie geben wird.
+[00:00:20.240 --> 00:00:22.600]   Und dann schaue ich in die ukrainische Stadt Odessa,
+[00:00:22.600 --> 00:00:26.880]   wo Russland nur einen Tag nach dem Getreide abkommen, den Hafen bombardiert hat.
+[00:00:26.880 --> 00:00:31.080]   Mein Name ist Moses Fändl und der Redaktionsschluss für diesen Podcast ist 16 Uhr.
+[00:00:31.080 --> 00:00:37.320]   In mehr als 75 Ländern haben sich mittlerweile Menschen
+[00:00:37.320 --> 00:00:39.080]   mit den Affenpocken angesteckt.
+[00:00:39.080 --> 00:00:41.360]   Am Wochenende hat die Weltgesundheitsorganisation das Thema
+[00:00:41.360 --> 00:00:44.720]   zu einer Notlage von internationalem Ausmaß hochgestuft.
+[00:00:44.720 --> 00:00:47.520]   Das ist die höchste Wahnstufe für gesundheitliche Bedrohungen,
+[00:00:47.520 --> 00:00:49.040]   die es bei der WHO gibt.
+[00:00:49.040 --> 00:00:50.720]   Klingelt da irgendwas bei Ihnen?
+[00:00:50.720 --> 00:00:54.000]   Mir fällt sofort ein, dass die WHO Ende Januar 2020
+[00:00:54.000 --> 00:00:58.200]   das damals noch neuartige Corona-Virus auch auf diese Stufe gerubt hat.
+[00:00:58.200 --> 00:01:00.600]   Und wer alle wissen, was danach passiert ist.
+[00:01:00.600 --> 00:01:04.200]   Welche Parallelen es gibt und wie viel Sorgen uns die Affenpocken jetzt machen müssen.
+[00:01:04.200 --> 00:01:06.200]   Das hoffe ich jetzt klären zu können mit Jakob Simank,
+[00:01:06.200 --> 00:01:08.800]   dem Leiter unseres Gesundheitsressorst, Tare Doctor.
+[00:01:08.800 --> 00:01:09.800]   Moin.
+[00:01:09.800 --> 00:01:12.000]   Was bedeutet die Entscheidung der WHO vom Wochenende?
+[00:01:12.000 --> 00:01:15.800]   Sie ist eine simbolische Entscheidung würde ich sagen,
+[00:01:15.800 --> 00:01:20.600]   denn mit dem Ausrufen dieses Gesundheitsnotstandes geht nichts rechtlich binden,
+[00:01:20.600 --> 00:01:21.600]   das einher.
+[00:01:21.600 --> 00:01:26.200]   Die WHO hat aber eine Liste an Empfehlungen veröffentlicht für die Länder,
+[00:01:26.200 --> 00:01:30.000]   die reichen von Dingen wie Testkapazitäten aufbauen.
+[00:01:30.000 --> 00:01:34.800]   Gesundheitsarbeiter darüber aufklären, wie sich die Affenpocken bemerkbar machen,
+[00:01:34.800 --> 00:01:38.000]   ein Diskriminierungsfreien Zugang zu ermöglichen,
+[00:01:38.000 --> 00:01:42.000]   bis hin zu Dingen wie Forschung ankurbeln.
+[00:01:42.000 --> 00:01:46.400]   Und die Hoffnung ist, dass das jetzt auch geschieht, rechtlich binden ist es nicht.
+[00:01:46.400 --> 00:01:49.000]   Und die Vergangenheit hat auch gezeigt, es ist nicht immer geschieht,
+[00:01:49.000 --> 00:01:52.800]   dass die durch selber Corona angesprochen wurde Ende Januar 2020,
+[00:01:52.800 --> 00:01:56.800]   der gesundheitsstand ausgerufen und dann ist lange in vielen Ländern nicht viel passiert,
+[00:01:56.800 --> 00:02:00.800]   sondern erst dann als uns das Ding richtig um die Ohrenflog,
+[00:02:00.800 --> 00:02:03.200]   also März tatsächlich 2020.
+[00:02:03.200 --> 00:02:06.400]   Also auch eine Chance, jetzt Dinge vielleicht besser zu machen als beim letzten Mal.
+[00:02:06.400 --> 00:02:09.400]   Die Affenpocken sind ja was völlig anderes als Covid-19.
+[00:02:09.400 --> 00:02:14.400]   Und die Situation ist nicht wirklich vergleichbar mit damals im Winter 2019 2020.
+[00:02:14.400 --> 00:02:17.200]   Trotzdem hatte ich am Samstag, als diese Nachricht rein kam,
+[00:02:17.200 --> 00:02:18.600]   schon so ein kleines deja Wü.
+[00:02:18.600 --> 00:02:20.200]   Wie viel Sorgen müssen wir uns machen,
+[00:02:20.200 --> 00:02:23.000]   dass da eine zweite Pandemie, wo möglich auf uns zukommt?
+[00:02:23.000 --> 00:02:26.800]   Das da was wie Covid auf uns zukommt, das müssen wir nicht fürchten.
+[00:02:26.800 --> 00:02:28.400]   Das kann man glaube ich sehr klar sagen,
+[00:02:28.400 --> 00:02:30.000]   die Übertragungswege sind ganz andere.
+[00:02:30.000 --> 00:02:34.000]   Wir sehen auch, dass die Übertragung einfach nicht so häufig passiert,
+[00:02:34.000 --> 00:02:35.600]   sondern nur bei sehr engen Kontakt,
+[00:02:35.600 --> 00:02:38.200]   ja gegenwärtig vor allem bei Männern die Sex-Männern haben,
+[00:02:38.200 --> 00:02:44.800]   beim Sex oder bei sehr enger, körperlicher Berührung der Haut sozusagen stattfindet,
+[00:02:44.800 --> 00:02:48.600]   sodass man erstmal endlich wahren kann für die breite Bevölkerung,
+[00:02:48.600 --> 00:02:51.200]   heißt nicht, dass man die Affenpocken nicht bekommen kann,
+[00:02:51.200 --> 00:02:56.200]   aber es ist ganz anders als mit dieser Erosolübertragung über die Luft bei Corona.
+[00:02:56.200 --> 00:03:00.200]   Nichtsdestotrotz ist es natürlich nur nicht so schöne Situation.
+[00:03:00.200 --> 00:03:03.000]   Wir haben Neues Virus und Recht Neues Virus,
+[00:03:03.000 --> 00:03:05.400]   was ich gerade in vielen Ländern einnistet,
+[00:03:05.400 --> 00:03:09.400]   in bestimmten Populationen, bei Männern die Sex-Männern haben,
+[00:03:09.400 --> 00:03:12.600]   und von dort auch, wenn wir es nicht eingedämmt kriegen,
+[00:03:12.600 --> 00:03:16.800]   natürlich immer wieder, also erst mal in diesen Communities leitanrichtet
+[00:03:16.800 --> 00:03:20.400]   und Probleme anrichtigen, dann auch immer wieder heraussegern kann.
+[00:03:20.400 --> 00:03:24.000]   Zum Beispiel zu Menschen, die wohl eine Rabler sind,
+[00:03:24.000 --> 00:03:26.400]   weil sie nicht Chemotherapie machen oder auch,
+[00:03:26.400 --> 00:03:30.000]   wie wir es schon gesehen haben, auf Kinder übertragen werden kann und so weiter.
+[00:03:30.000 --> 00:03:31.800]   Sodass das schon ein gesundheitsproblem ist,
+[00:03:31.800 --> 00:03:33.400]   und ich denke, wir sind uns eigentlich darüber,
+[00:03:33.400 --> 00:03:36.200]   dass wir weniger gesundheitsprobleme das so besser eigentlich.
+[00:03:36.200 --> 00:03:41.000]   Und deswegen ist das schon Schritt, den viele Experten auch für richtig halten.
+[00:03:41.000 --> 00:03:45.200]   Und vielleicht, wenn ich darf noch ein Vergleich, der vielleicht auch hilft,
+[00:03:45.200 --> 00:03:48.800]   in der Geschichte dieser internationalen Gesundheitsnotstände
+[00:03:48.800 --> 00:03:51.200]   ist das jetzt der sechste Fall und viele,
+[00:03:51.200 --> 00:03:53.000]   der genotischen die Ausgrufen wurden,
+[00:03:53.000 --> 00:03:56.400]   hatten für unser tägliches Leben nicht allzu viel relevant.
+[00:03:56.400 --> 00:04:00.600]   Da wurde in Ebole-Ausbruch im Konkur 2018 ausgerufen.
+[00:04:00.600 --> 00:04:03.600]   Da wurde Polio als Gesundheits- und-Scharn ausgerufen.
+[00:04:03.600 --> 00:04:06.000]   Das ist auch gesundheitlich ein Problem weltweit.
+[00:04:06.000 --> 00:04:07.800]   Und Menschen müssen sich dagegen impfen lassen
+[00:04:07.800 --> 00:04:09.600]   und wir müssen Impfkampagne auf die Reihe kriegen.
+[00:04:09.600 --> 00:04:12.000]   Aber es betrifft uns jetzt meistens nicht so sehr.
+[00:04:12.000 --> 00:04:15.000]   Und ich glaube, dass es dann auch manchmal hilft, diesen Vergleich zu ziehen
+[00:04:15.000 --> 00:04:16.400]   und nicht immer den Corona-Vergleich.
+[00:04:16.400 --> 00:04:17.400]   Danke, D.J. Kopp.
+[00:04:17.400 --> 00:04:18.200]   Sehr gern.
+[00:04:18.200 --> 00:04:20.800]   Und D.J. Kopp arbeitet gerade auch noch an einem ausführlichen Text,
+[00:04:20.800 --> 00:04:22.600]   in dem er noch mal alles zusammenfasst,
+[00:04:22.600 --> 00:04:24.800]   was wir bisher über die Affenpocken wessen.
+[00:04:24.800 --> 00:04:27.800]   Der Text erscheint im Laufe des Abends auf Zeit online.
+[00:04:27.800 --> 00:04:33.600]   Erst am Freitag haben die UKAIN und Russland in Istanbul ein Abkommen unterzeichnet.
+[00:04:33.600 --> 00:04:35.000]   Es soll der UKAIN er ermöglichen,
+[00:04:35.000 --> 00:04:38.800]   Millionen Tonnen von Getreide über das Schwarze mehr zu exportieren,
+[00:04:38.800 --> 00:04:42.200]   eingefädelt haben den Deal die Türkei und die Vereinten Nationen.
+[00:04:42.200 --> 00:04:44.800]   Strang genommen sind es zwei voneinander getrennte Abkommen,
+[00:04:44.800 --> 00:04:48.400]   weil die UKAIN'e sich geweigert hat, einen Vertrag mit Russland zu unterzeichnen.
+[00:04:48.400 --> 00:04:49.800]   Hmm, warum wohl.
+[00:04:49.800 --> 00:04:54.000]   Nur einen Tag später hat Russland den Hafen von Odessa mit Raketen angegriffen.
+[00:04:54.000 --> 00:04:59.200]   Das ist der größte Hafen der UKAIN'e und er spielt eine zentrale Rolle für den Getreide export.
+[00:04:59.200 --> 00:05:02.000]   Die russische Regierung hat den Angriff zuerst bestritten,
+[00:05:02.000 --> 00:05:04.000]   gestern dann aber doch zugegeben.
+[00:05:04.000 --> 00:05:07.200]   Sie behauptet, es sei militärische Infrastruktur zerstört worden,
+[00:05:07.200 --> 00:05:10.600]   unter anderem ein ukrainisches Kriegsschiff und US-amerikanische Waffen,
+[00:05:10.600 --> 00:05:12.600]   die im Hafen gelagert worden sein sollen.
+[00:05:12.600 --> 00:05:17.600]   Die UKAIN'e dagegen sagt, dass auch Hafenanlagen und ein Kunstmuseum beschädigt worden sein sollen.
+[00:05:17.600 --> 00:05:21.200]   Mein Zeit-Online-Kollegel Christian Fohren recherchiert gerade in Odessa.
+[00:05:21.200 --> 00:05:24.200]   Ich wollte von ihm wissen, wie er die Stimmung in der Stadt im Moment erlebt.
+[00:05:24.200 --> 00:05:28.200]   Wenn man gerade durch Odessa läuft, sieht es eigentlich nicht so aus,
+[00:05:28.200 --> 00:05:31.200]   als würde sich jemand wahnsinnig beeindrucken lassen
+[00:05:31.200 --> 00:05:34.200]   von den jüngsten Angriffen vor nicht mal.
+[00:05:34.200 --> 00:05:38.200]   An der Zeit tagen, die Leute waren gestern Abend auch auf dem Straßen,
+[00:05:38.200 --> 00:05:41.400]   haben getrunken, haben gegessen, haben zum Teil getanzt.
+[00:05:41.400 --> 00:05:47.600]   Und es wirkt nicht so, als hätte man hier besonders viel Angst vor weiteren Angriffen.
+[00:05:47.600 --> 00:05:50.600]   Den Angriff selbst hat Christian für ein weiteres Puzzleteil
+[00:05:50.600 --> 00:05:52.600]   von Putin's psychologischer Kriegführung.
+[00:05:52.600 --> 00:05:57.600]   Ein Tag nach dem Abkommen des die Schwarz-Märblockade aufgehoben werden könnte,
+[00:05:57.600 --> 00:06:00.400]   hat er einfach noch mal klargemacht,
+[00:06:00.400 --> 00:06:04.400]   dass der Hafen in reichweiterer Rosescher Raketen ist
+[00:06:04.400 --> 00:06:09.400]   und dass jeder, der jetzt mit einem Schiff versucht, durch Schwarz-Mär zu fahren,
+[00:06:09.400 --> 00:06:12.400]   sich dem Risiko aussetzt, angegriffen zu werden.
+[00:06:12.400 --> 00:06:15.400]   Ist das Getreideabkommen, damit womöglich schon wieder hinfällig,
+[00:06:15.400 --> 00:06:18.400]   um diese Frage zu beantworten, ist es wohl noch zu früh?
+[00:06:18.400 --> 00:06:20.400]   Man kann aber mit Sicherheit sagen,
+[00:06:20.400 --> 00:06:22.400]   dass es dadurch nicht leichter geworden ist,
+[00:06:22.400 --> 00:06:28.400]   dass liegen immer noch Millionen Tonnen getreide, in den Silos, in den Lageren,
+[00:06:28.400 --> 00:06:32.400]   die auf dem Landweg kaum raus zu bekommen sind,
+[00:06:32.400 --> 00:06:34.400]   gleichzeitig ist im Moment Ernte-Saison.
+[00:06:34.400 --> 00:06:38.400]   Und die Lager müssten jetzt eigentlich leer sein, damit sie dann
+[00:06:38.400 --> 00:06:41.400]   mit den frischen Ernten gefüllt werden könnten.
+[00:06:41.400 --> 00:06:43.400]   Insofern eine vertrakte Situation,
+[00:06:43.400 --> 00:06:48.400]   aber die Menschen in Odessa scheinen sich davon nicht runterziehen zu lassen.
+[00:06:48.400 --> 00:06:50.400]   Danke nach Odessa, Christian.
+[00:06:50.400 --> 00:06:55.400]   Wenn Sie vorhaben, am Mittwoch mit der Lufthansa irgendwo hinzufliegen,
+[00:06:55.400 --> 00:06:58.400]   müssen Sie sich auf Probleme einstellen, denn die Gewerkschaft Werdie
+[00:06:58.400 --> 00:07:01.400]   hat das Lufthansa-Bodenpersonal für Übermorgen zu einem ganz täglichen
+[00:07:01.400 --> 00:07:03.400]   Warnstreik aufgerufen,
+[00:07:03.400 --> 00:07:06.400]   Werdie sagt, dass viele Flüge ausfallen oder sich verzögern.
+[00:07:06.400 --> 00:07:10.400]   Zum Bodenpersonal gehören, zum Beispiel Technikerinnen oder Logistiker,
+[00:07:10.400 --> 00:07:14.400]   ohne sie geht nichts am Flughafen oder besser gesagt, ohne sie fliegt nichts.
+[00:07:14.400 --> 00:07:17.400]   Ihre Arbeitsumgebung müssen wir als ungefähr so vorstellen.
+[00:07:17.400 --> 00:07:24.400]   Natürlich trägt das Bodenpersonal
+[00:07:24.400 --> 00:07:26.400]   und die Arbeit auf dem Wollfeldgehörschrutz.
+[00:07:26.400 --> 00:07:29.400]   Aber denken Sie sich jetzt mal noch den typischen Kerosingeruch dazu
+[00:07:29.400 --> 00:07:32.400]   und stellen Sie sich vor, bei den aktuellen Sommertemperaturen
+[00:07:32.400 --> 00:07:35.400]   in Arbeitsschutzkleidung auf einer großen Betonfläche rumzulaufen.
+[00:07:35.400 --> 00:07:39.400]   Ich glaube, dann haben Sie ein ungefähres Bild von der Arbeitsbelastung dieser Menschen.
+[00:07:39.400 --> 00:07:41.400]   Es geht um ungefähr 20.000 Beschäftigte.
+[00:07:41.400 --> 00:07:44.400]   Ein erstes Angebot der Lufthansa hat Werdie abgelehnt,
+[00:07:44.400 --> 00:07:46.400]   aber Anfang August soll weiterverhandelt werden.
+[00:07:46.400 --> 00:07:49.400]   Werdie fordert unter anderem fast 10% mehr Lohnen.
+[00:07:49.400 --> 00:07:51.400]   Das klingt ungewöhnlich viel, finde ich.
+[00:07:51.400 --> 00:07:55.400]   Werdie hält die Forderung aber für gerechtfertigt wegen der momentanen Überlastung,
+[00:07:55.400 --> 00:08:00.400]   der hohen Inflation und weil die Beschäftigten für drei Jahre auf einen Teil ihres Lohns verzichtet hätten.
+[00:08:00.400 --> 00:08:05.400]   Dieser Streik fällt jetzt in einer Zeit, in der die Lager an den deutschen Flughafen sowieso schon angespannt ist.
+[00:08:05.400 --> 00:08:08.400]   Es hat in den letzten Wochen immer wieder Chaos gegeben,
+[00:08:08.400 --> 00:08:10.400]   weil im Moment viele Leute in den Urlaub fliegen.
+[00:08:10.400 --> 00:08:14.400]   Ein Grund für die Probleme der Luftfahrtbranche ist der Personalmangel
+[00:08:14.400 --> 00:08:19.400]   und deshalb sind die Gewerkschaften gerade auch in einer starken Verhandlungsposition gegenüber den Arbeitgebern.
+[00:08:19.400 --> 00:08:21.400]   In diesem Fall der Lufthansa.
+[00:08:21.400 --> 00:08:24.400]   Was noch?
+[00:08:24.400 --> 00:08:26.400]   Gut anderthalb Jahre ist es jetzt her,
+[00:08:26.400 --> 00:08:29.400]   dass die agentinische Fußballlegende Diego Maradona gestorben ist.
+[00:08:29.400 --> 00:08:37.400]   In seiner Heimat Agentien und auch in seiner zwischenzeitlichen Wahlheimat Neapel trägt die Maradona-Verährung bis heute gerade zu religiöse Züge.
+[00:08:37.400 --> 00:08:40.400]   Eine seiner Spitzenamen ist zum Beispiel Dios-Spannisch für Gott,
+[00:08:40.400 --> 00:08:44.400]   geschrieben mit der Zeit 10 in der Mitte, also D-10S.
+[00:08:44.400 --> 00:08:46.400]   Denn die 10 war Maradona's Rückennummer.
+[00:08:46.400 --> 00:08:51.400]   Wer Maradona noch was mit auf die Reise geben will, kann das seit dem Wochenende machen.
+[00:08:51.400 --> 00:08:54.400]   Denn ein privates Unternehmen sammelt Audio- und Videobotschaften,
+[00:08:54.400 --> 00:08:58.400]   die demnächst auf einer Festplatte zusammen mit einem Paar von Maradona's Fußballschuhen
+[00:08:58.400 --> 00:09:01.400]   mit einem Satelliten ins All geschickt werden sollen.
+[00:09:01.400 --> 00:09:03.400]   Der Satellite heißt kosmischer Drache.
+[00:09:03.400 --> 00:09:07.400]   Das ist eine Anspielung auf einen Fernsehkommentaus dem Jahr 1986.
+[00:09:07.400 --> 00:09:11.400]   Maradona hatte gerade ein spektakuläres, ein wunderschönes Tor
+[00:09:11.400 --> 00:09:14.400]   im Viertelfinale der Weltmeisterschaft gegen England geschossen.
+[00:09:14.400 --> 00:09:19.400]   Es wurde später zum Tor des Jahrhunderts Gewählt und Argentinien wurde am Ende Weltmeister.
+[00:09:19.400 --> 00:09:23.400]   Der Reporter im Fernsehen ist damals auf typisch südamerikanischer Weise ausgerastet.
+[00:09:23.400 --output_txt: saving output to 'audio.wav-2-base.txt'
+output_vtt: saving output to 'audio.wav-2-base.vtt'
+output_srt: saving output to 'audio.wav-2-base.srt'
+
+whisper_print_timings:     load time =    90.63 ms
+whisper_print_timings:      mel time =  2492.42 ms
+whisper_print_timings:   sample time =   380.34 ms
+whisper_print_timings:   encode time = 12632.46 ms / 2105.41 ms per layer
+whisper_print_timings:   decode time = 14381.26 ms / 2396.88 ms per layer
+whisper_print_timings:    total time = 29988.23 ms
+> 00:09:28.400]   Hat Maradona einen kosmischen Drachen genannt und ihn gefragt, von welchem Planeten erkomme.
+[00:09:28.400 --> 00:09:32.400]   Jetzt wer er die Frage, ob Maradona auch dort hin zurückgekehrt ist.
+[00:09:32.400 --> 00:09:38.400]   Das war das Update von, was jetzt am Montagnamen Tagmodag morgen früh spricht,
+[00:09:38.400 --> 00:09:41.400]   ihr Konstanzer kein, über deutsche Panzer für die Ukraine.
+[00:09:41.400 --> 00:09:46.400]   Und warum der viel diskutierte Ringtausch mit unseren östlichen EU-Nachbarn nur so schleppend vorankommt.
+[00:09:46.400 --> 00:09:49.400]   Ich heiße Moses Fändl, danke fürs Zuhören und Tschüss.
+[00:09:49.400 --> 00:10:00.400]   [Musik]
+

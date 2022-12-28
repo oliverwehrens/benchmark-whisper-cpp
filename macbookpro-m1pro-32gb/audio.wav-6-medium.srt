@@ -1,0 +1,456 @@
+1
+00:00:00,000 --> 00:00:09,880
+ Herzlich willkommen bei Was jetzt? dem Nachrichten-Podcast von Zeit Online. Sie hören das Update am Montag,
+
+2
+00:00:09,880 --> 00:00:15,260
+ den 25. Juli. Ich rede gleich darüber, warum die Affenpocken zwar inzwischen als internationale
+
+3
+00:00:15,260 --> 00:00:20,640
+ Notlage betrachtet werden, es aber sehr wahrscheinlich keine zweite Pandemie geben wird. Und dann
+
+4
+00:00:20,640 --> 00:00:25,080
+ schaue ich in die ukrainische Stadt Odessa, wo Russland nur einen Tag nach dem Getreideabkommen
+
+5
+00:00:25,080 --> 00:00:29,640
+ den Hafen bombardiert hat. Mein Name ist Moses Fendel und der Redaktionsschluss für diesen
+
+6
+00:00:29,640 --> 00:00:38,200
+ Podcast ist 16 Uhr. In mehr als 75 Ländern haben sich mittlerweile Menschen mit den Affenpocken
+
+7
+00:00:38,200 --> 00:00:41,600
+ angesteckt. Am Wochenende hat die Weltgesundheitsorganisation das Thema zu einer
+
+8
+00:00:41,600 --> 00:00:47,000
+ Notlage von internationalem Ausmaß hoch gestuft. Das ist die höchste Warnstufe für gesundheitliche
+
+9
+00:00:47,000 --> 00:00:51,760
+ Bedrohungen, die es bei der WHO gibt. Klingelt da irgendwas bei Ihnen? Mir fällt sofort ein,
+
+10
+00:00:51,760 --> 00:00:56,960
+ dass die WHO Ende Januar 2020 das damals noch neuartige Coronavirus auch auf diese
+
+11
+00:00:56,960 --> 00:01:02,040
+ Stufe geroben hat und wir alle wissen, was danach passiert ist. Welche Parallelen es gibt und wie
+
+12
+00:01:02,040 --> 00:01:05,200
+ viel Sorgen uns die Affenpocken jetzt machen müssen, das hoffe ich jetzt klären zu können
+
+13
+00:01:05,200 --> 00:01:10,720
+ mit Jakob Simank, dem Leiter unseres Gesundheitsressorts. Tag Herr Doktor. Moin. Was bedeutet die Entscheidung
+
+14
+00:01:10,720 --> 00:01:16,720
+ der WHO vom Wochenende? Sie ist eine symbolische Entscheidung, würde ich sagen, denn mit dem
+
+15
+00:01:16,720 --> 00:01:23,440
+ Ausrufen dieses Gesundheitsnotstandes geht nichts rechtlich bindendes einher. Die WHO hat aber eine
+
+16
+00:01:23,440 --> 00:01:28,800
+ Liste an Empfehlungen veröffentlicht für die Länder, die reichen von Dingen wie Testkapazitäten
+
+17
+00:01:28,800 --> 00:01:34,680
+ aufbauen, Gesundheitsarbeiter darüber aufklären, wie sich die Affenpocken bemerkbar machen,
+
+18
+00:01:34,680 --> 00:01:42,360
+ einen diskriminierungsfreien Zugang zu ermöglichen, bis hin zu Dingen wie Forschung ankurbeln und die
+
+19
+00:01:42,360 --> 00:01:47,240
+ Hoffnung ist, dass das jetzt auch geschieht. Rechtlich binden ist es nicht und die Vergangenheit hat
+
+20
+00:01:47,240 --> 00:01:51,480
+ auch gezeigt, dass es nicht immer geschieht. Du hast ja selber Corona angesprochen. Da wurde Ende
+
+21
+00:01:51,480 --> 00:01:56,240
+ Januar 2020 der Gesundheitsnotstand ausgerufen und dann ist lange in vielen Ländern nicht viel
+
+22
+00:01:56,240 --> 00:02:03,040
+ passiert, sondern erst dann, als uns das Ding richtig um die Ohren flog, also März tatsächlich 2020.
+
+23
+00:02:03,040 --> 00:02:07,400
+ Also auch eine Chance jetzt Dinge vielleicht besser zu machen als beim letzten Mal. Die Affenpocken
+
+24
+00:02:07,400 --> 00:02:11,600
+ sind ja was völlig anderes als Covid-19 und die Situation ist nicht wirklich vergleichbar mit
+
+25
+00:02:11,600 --> 00:02:17,360
+ damals im Winter 2019/2020. Trotzdem hatte ich am Samstag, als diese Nachricht hereinkam, schon
+
+26
+00:02:17,360 --> 00:02:22,000
+ so ein kleines Déjà-vu. Wie viel Sorgen müssen wir uns machen, dass da eine zweite Pandemie womöglich
+
+27
+00:02:22,000 --> 00:02:27,080
+ auf uns zukommt? Dass da was wie Covid auf uns zukommt, das müssen wir nicht fürchten. Das kann
+
+28
+00:02:27,080 --> 00:02:31,560
+ man glaube ich sehr klar sagen. Die Übertragungswege sind ganz andere. Wir sehen auch, dass die
+
+29
+00:02:31,560 --> 00:02:36,360
+ Übertragung einfach nicht so häufig passiert, sondern nur bei sehr engem Kontakt. Gegenwärtig
+
+30
+00:02:36,360 --> 00:02:41,840
+ vor allem bei Männern, die Sex mit Männern haben, beim Sex oder bei sehr enger körperlicher Berührung,
+
+31
+00:02:41,840 --> 00:02:47,920
+ der Haut sozusagen stattfindet, sodass man erstmal denke ich entwarnen kann für die breite
+
+32
+00:02:47,920 --> 00:02:52,880
+ Bevölkerung. Heißt nicht, dass man die Affenpocken nicht bekommen kann, aber es ist ganz anders als
+
+33
+00:02:52,880 --> 00:02:58,440
+ mit dieser Aerosolübertragung über die Luft bei Corona. Nichtsdestotrotz ist es natürlich eine
+
+34
+00:02:58,440 --> 00:03:04,240
+ nicht so schöne Situation. Wir haben ein neues Virus, ein recht neues Virus, was sich gerade in vielen
+
+35
+00:03:04,240 --> 00:03:10,560
+ Ländern einnistet, in bestimmten Populationen bei Männern, die Sex mit Männern haben und von dort
+
+36
+00:03:10,560 --> 00:03:14,840
+ auch, wenn wir es nicht eingedämmt kriegen, natürlich immer wieder, also erstmal in diesen
+
+37
+00:03:14,840 --> 00:03:20,000
+ Communities Leid anrichtet und Probleme anrichtet und dann auch immer wieder heraus sickern kann.
+
+38
+00:03:20,000 --> 00:03:26,480
+ Zum Beispiel zu Menschen, die vulnerabler sind, weil sie nicht Chemotherapie machen oder auch,
+
+39
+00:03:26,480 --> 00:03:30,680
+ wie wir es schon gesehen haben, auf Kinder übertragen werden kann und so weiter, sodass das schon
+
+40
+00:03:30,680 --> 00:03:34,440
+ ein Gesundheitsproblem ist und ich denke wir sind uns eigentlich darüber, dass je weniger
+
+41
+00:03:34,440 --> 00:03:39,000
+ Gesundheitsprobleme, desto besser eigentlich und deswegen ist das schon ein Schritt, den viele
+
+42
+00:03:39,000 --> 00:03:44,200
+ Experten auch für richtig halten und vielleicht, wenn ich darf, noch ein Vergleich, der vielleicht
+
+43
+00:03:44,200 --> 00:03:50,040
+ auch hilft. In der Geschichte dieser internationalen Gesundheitsnotstände ist das jetzt der sechste
+
+44
+00:03:50,040 --> 00:03:55,600
+ Fall und viele der Notstände, die ausgerufen wurden, hatten für unser tägliches Leben nicht allzu
+
+45
+00:03:55,600 --> 00:04:02,640
+ viel Relevanz. Da wurde ein Ebola-Ausbruch im Kongo 2018 ausgerufen, da wurde Polio als
+
+46
+00:04:02,640 --> 00:04:06,640
+ Gesundheitsnotstand ausgerufen. Das ist auch gesundheitlich ein Problem weltweit und Menschen
+
+47
+00:04:06,640 --> 00:04:10,040
+ müssen sich dagegen impfen lassen und wir müssen Impfkampagnen auf die Reihe kriegen, aber es
+
+48
+00:04:10,040 --> 00:04:13,600
+ betrifft uns jetzt meistens nicht so sehr und ich glaube, dass es dann auch manchmal hilft,
+
+49
+00:04:13,600 --> 00:04:17,880
+ diesen Vergleich zu ziehen und nicht immer den Corona-Vergleich. Danke dir, Jakob. Sehr gern.
+
+50
+00:04:17,880 --> 00:04:21,880
+ Und Jakob arbeitet gerade auch noch an einem ausführlichen Text, in dem er nochmal alles
+
+51
+00:04:21,880 --> 00:04:26,800
+ zusammenfasst, was wir bisher über die Affenpocken wessen. Der Text erscheint im Laufe des Abends auf
+
+52
+00:04:26,800 --> 00:04:33,520
+ Zeit Online. Erst am Freitag haben die Ukraine und Russland in Istanbul ein Abkommen unterzeichnet.
+
+53
+00:04:33,520 --> 00:04:38,560
+ Es soll der Ukraine ermöglichen, Millionen Tonnen von Getreide über das Schwarze Meer zu exportieren.
+
+54
+00:04:38,560 --> 00:04:43,240
+ Eingefädelt haben den Deal die Türkei und die Vereinten Nationen. Streng genommen sind es zwei
+
+55
+00:04:43,240 --> 00:04:47,360
+ voneinander getrennte Abkommen, weil die Ukraine sich geweigert hat, einen Vertrag mit Russland
+
+56
+00:04:47,360 --> 00:04:52,720
+ zu unterzeichnen. Warum wohl? Nur einen Tag später hat Russland den Hafen von Odessa mit
+
+57
+00:04:52,720 --> 00:04:57,560
+ Raketen angegriffen. Das ist der größte Hafen der Ukraine und er spielt eine zentrale Rolle für den
+
+58
+00:04:57,560 --> 00:05:02,720
+ geplanten Getreide-Export. Die russische Regierung hat den Angriff zuerst bestritten, gestern dann aber
+
+59
+00:05:02,720 --> 00:05:07,760
+ doch zugegeben. Sie behauptet, es sei militärische Infrastruktur zerstört worden, unter anderem ein
+
+60
+00:05:07,760 --> 00:05:12,480
+ ukrainisches Kriegsschiff und US-amerikanische Waffen, die im Hafen gelagert worden sein sollen.
+
+61
+00:05:12,480 --> 00:05:17,560
+ Die Ukraine dagegen sagt, dass auch Hafenanlagen und ein Kunstmuseum beschädigt worden sein sollen.
+
+62
+00:05:17,560 --> 00:05:22,080
+ Mein Zeit Online-Kollege Christian Foren recherchiert gerade in Odessa. Ich wollte von ihm wissen,
+
+63
+00:05:22,080 --> 00:05:26,960
+ wie er die Stimmung in der Stadt im Moment erlebt. Wenn man gerade durch Odessa läuft, sieht es
+
+64
+00:05:26,960 --> 00:05:31,320
+ eigentlich nicht so aus, als würde sich hier jemand wahnsinnig beeindrucken lassen von den
+
+65
+00:05:31,320 --> 00:05:38,360
+ jüngsten Angriffen vor nicht mal anderthalb Tagen. Die Leute waren gestern Abend auch auf den Straßen,
+
+66
+00:05:38,360 --> 00:05:43,640
+ haben getrunken, haben gegessen, haben zum Teil getanzt und es wirkt nicht so, als hätte man jetzt
+
+67
+00:05:43,640 --> 00:05:49,880
+ hier besonders viel Angst vor weiteren Angriffen. Den Angriff selbst hält Christian für ein weiteres
+
+68
+00:05:49,880 --> 00:05:55,840
+ Puzzleteil von Putins psychologischer Kriegführung. Einen Tag nach dem Abkommen, dass die Schwarzmeer-Blockade
+
+69
+00:05:55,840 --> 00:06:02,960
+ aufgehoben werden könnte, hat er einfach noch mal klar gemacht, dass der Hafen in Reichweite
+
+70
+00:06:02,960 --> 00:06:09,160
+ russischer Raketen ist und dass jeder, der jetzt mit einem Schiff versucht durchs Schwarze Meer zu fahren,
+
+71
+00:06:09,160 --> 00:06:14,800
+ sich dem Risiko aussetzt, angegriffen zu werden. Ist das Getreideabkommen damit womöglich schon
+
+72
+00:06:14,800 --> 00:06:19,760
+ wieder hinfällig? Um diese Frage zu beantworten, ist es wohl noch zu früh. Man kann aber mit Sicherheit
+
+73
+00:06:19,760 --> 00:06:25,640
+ sagen, dass es dadurch nicht leichter geworden ist. Es liegen immer noch Millionen Tonnen Getreide
+
+74
+00:06:25,640 --> 00:06:34,040
+ in den Silos, in den Lagern, die auf dem Landweg kaum rauszubekommen sind. Gleichzeitig ist im Moment
+
+75
+00:06:34,040 --> 00:06:40,200
+ Erntesaison und die Lager müssten jetzt eigentlich leer sein, damit sie dann mit den frischen Ernten
+
+76
+00:06:40,200 --> 00:06:47,160
+ gefüllt werden könnten. Insofern eine vertragte Situation, aber die Menschen in Odessa scheinen
+
+77
+00:06:47,160 --> 00:06:53,680
+ sich davon nicht runterziehen zu lassen. Danke nach Odessa, Christian. Wenn Sie vorhaben, am
+
+78
+00:06:53,680 --> 00:06:57,840
+ Mittwoch mit der Lufthansa irgendwo hinzufliegen, müssen Sie sich auf Probleme einstellen, denn die
+
+79
+00:06:57,840 --> 00:07:02,400
+ Gewerkschaft Verdi hat das Lufthansa-Bodenpersonal für übermorgen zu einem ganztägigen Warnstreik
+
+80
+00:07:02,400 --> 00:07:08,040
+ aufgerufen. Verdi sagt, dass viele Flüge ausfallen oder sich verzögern. Zum Bodenpersonal gehören
+
+81
+00:07:08,040 --> 00:07:13,240
+ zum Beispiel Technikerinnen oder Logistiker. Ohne sie geht nichts am Flughafen oder besser gesagt,
+
+82
+00:07:13,240 --> 00:07:16,880
+ ohne sie fliegt nichts. Ihre Arbeitsumgebung müssen wir uns ungefähr so vorstellen.
+
+83
+00:07:22,760 --> 00:07:26,480
+ Natürlich trägt das Bodenpersonal bei der Arbeit auf dem Wollfeld Gehörschutz, aber denken Sie
+
+84
+00:07:26,480 --> 00:07:30,440
+ sich jetzt mal noch den typischen Kerosingeruch dazu und stellen Sie sich vor, bei den aktuellen
+
+85
+00:07:30,440 --> 00:07:35,680
+ Sommertemperaturen in Arbeitsschutzkleidung auf einer großen Betonfläche rumzulaufen. Ich glaube,
+
+86
+00:07:35,680 --> 00:07:39,680
+ dann haben Sie ein ungefähres Bild von der Arbeitsbelastung dieser Menschen. Es geht um
+
+87
+00:07:39,680 --> 00:07:44,840
+ ungefähr 20.000 Beschäftigte. Ein erstes Angebot der Lufthansa hat Verdi abgelehnt, aber Anfang
+
+88
+00:07:44,840 --> 00:07:50,040
+ August soll weiterverhandelt werden. Verdi fordert unter anderem fast zehn Prozent mehr Lohn. Das
+
+89
+00:07:50,040 --> 00:07:53,880
+ klingt ungewöhnlich viel, finde ich. Verdi hält die Forderung aber für gerechtfertigt,
+
+90
+00:07:53,880 --> 00:07:58,160
+ wegen der momentanen Überlastung, der hohen Inflation und weil die Beschäftigten für drei
+
+91
+00:07:58,160 --> 00:08:02,920
+ Jahre auf einen Teil ihres Lohns verzichtet hätten. Dieser Streik fällt jetzt in einer Zeit,
+
+92
+00:08:02,920 --> 00:08:07,120
+ in der die Lage an den deutschen Flughäfen sowieso schon angespannt ist. Es hat ja in den letzten
+
+93
+00:08:07,120 --> 00:08:12,080
+ Wochen immer wieder Chaos gegeben, weil im Moment viele Leute in den Urlaub fliegen. Ein Grund für
+
+94
+00:08:12,080 --> 00:08:16,200
+ die Probleme der Luftfahrtbranche ist der Personalmangel und deshalb sind die Gewerkschaften gerade
+
+95
+00:08:16,200 --> 00:08:20,960
+ auch in einer starken Verhandlungsposition gegenüber den Arbeitgebern. In diesem Fall der Lufthansa.
+
+96
+00:08:20,960 --> 00:08:28,480
+ Was noch? Gut anderthalb Jahre ist es jetzt her, dass die argentinische Fußballlegende Diego
+
+97
+00:08:28,480 --> 00:08:32,680
+ Maradona gestorben ist. In seiner Heimat Argentinien und auch in seiner zwischenzeitlichen
+
+98
+00:08:32,680 --> 00:08:38,400
+ Wahlheimat Neapel trägt die Maradona-Verehrung bis heute geradezu religiöse Züge. Einer seiner
+
+99
+00:08:38,400 --> 00:08:43,040
+ Spitznamen ist zum Beispiel Dios, Spanisch für Gott, geschrieben mit der Zahl 10 in der Mitte,
+
+100
+00:08:43,040 --> 00:08:49,640
+ also D10S, denn die 10 war Maradonas Rückennummer. Wer Maradona noch was mit auf die Reise geben will,
+
+101
+00:08:49,640 --> 00:08:54,080
+ kann das seit dem Wochenende machen, denn ein privates Unternehmen sammelt Audio- und
+
+102
+00:08:54,080 --> 00:08:57,920
+ Videobotschaften, die demnächst auf einer Festplatte zusammen mit einem paar von
+
+103
+00:08:57,920 --> 00:09:02,320
+ Maradonas Fußballschuhen mit einem Satelliten ins All geschickt werden sollen. Der Satellit
+
+104
+00:09:02,320 --> 00:09:07,520
+ heißt Kosmischer Drache. Das ist eine Anspielung auf einen Fernsehkommentar aus dem Jahr 1986.
+
+105
+00:09:07,520 --> 00:09:12,400
+ Maradona hatte gerade ein spektakuläres, ein wunderschönes Tor im Viertelfinale der
+
+106
+00:09:12,400 --> 00:09:17,080
+ Weltmeisterschaft gegen England geschossen. Es wurde später zum Tor des Jahrhunderts gewählt
+
+107
+00:09:17,080 --> 00:09:21,360
+ und Argentinien wurde am Ende Weltmeister. Der Reporter im Fernsehen ist damals auf
+
+108
+00:09:21,360 --> 00:09:26,560
+ typisch südamerikanische Weise ausgerastet, hat Maradona einen kosmischen Drachen genannt und
+
+109
+00:09:26,560 --> 00:09:31,000
+ ihn gefragt, von welchem Planeten er komme. Jetzt wäre eher die Frage, ob Maradona auch
+
+110
+00:09:31,000 --> 00:09:38,440
+ dorthin zurückgekehrt ist. Das war das Update von Was Jetzt am Montagnachmittag. Morgen früh
+
+111
+00:09:38,440 --> 00:09:42,840
+ spricht der Konstanze Keynes über deutsche Panzer für die Ukraine und warum der viel diskutierte
+
+112
+00:09:42,840 --> 00:09:48,400
+ Ringtausch mit unseren östlichen EU-Nachbarn nur so schleppend vorankommt. Ich heiße Moses Fendel,
+
+113
+00:09:48,400 --> 00:09:50,000
+ danke fürs Zuhören und tschüss.
+
+114
+00:09:50,000 --> 00:10:00,000
+ [Musik]
+
