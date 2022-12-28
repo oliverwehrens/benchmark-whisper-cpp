@@ -4,10 +4,10 @@ import time
 import whisper
 
 start = time.time()
-model = whisper.load_model("large")
+model = whisper.load_model("small")
 output = model.transcribe("audio.wav")
 end = time.time()
 
 print(f"Transcribed in {end - start} seconds")
-with open("transcription.json", "w") as f:
+with open("transcription-small.json", "w") as f:
     f.write(json.dumps(output))

@@ -13,8 +13,7 @@ BIN=$WHISPER_DIR/main
 DATE=`date +"%Y-%m-%d_%H:%M:%S"`
 
 CORES="6 5 4 3 2 1"
-#MODELS="tiny small base medium large large-v1"
-MODELS="tiny"
+MODELS="tiny small base medium large large-v1"
 for MODEL_NAME in $MODELS; do
     for CORE_COUNT in $CORES; do
         MODEL=$WHISPER_DIR/models/ggml-$MODEL_NAME.bin
